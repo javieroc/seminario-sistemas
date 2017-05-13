@@ -15,30 +15,40 @@ Objetivos
 Objetivos generales
 ###################
 
-La finalidad del presente seminario es implementar un servicio utilizando la metodología de desarrollo de software ágil SCRUM. De esta manera el equipo podrá ganar experiencia en la
-administración y desarrollo de proyectos informáticos.
-
-Se fomentará el aprendizaje de las tecnologías más utilizadas en el mercado actual para
+* Implementar un servicio utilizando la metodología de desarrollo de software ágil SCRUM.
+* Ganar experiencia en la administración y desarrollo de proyectos informáticos.
+* Fomentar el aprendizaje de las tecnologías más utilizadas en el mercado actual para.
 enriquecer las habilidades profesionales de cada integrante del equipo.
-
-Se espera con este desarrollo iniciar un emprendimiento local con la posibilidad de expandirnos
+* Desarrollar un software de calidad.
+* Iniciar un emprendimiento local con la posibilidad de expandirnos.
 dentro de la industria del software.
 
 
 Objetivos Específicos
 #####################
-
-* Brindar la posibilidad de gestionar torneos de acuerdo a los diferentes tipos de sistemas de eliminación.
+* Permitir el acceso a una aplicación disponible sobre plataformas web y mobile.
+* Diseñar una interfaz cómoda y accesible para los distintos usuarios.
+* Utilizar los métodos de autenticación más populares del mercado, para así abarcar mayor rango de usuarios.
 * Facilitar la inscripción y seguimiento de los equipos que participan en los torneos.
+* Dejar en disposición la personalización de distintos tipos de sistemas de eliminatorias para cada torneo.
 * Permitir la visualiación de información estadística desde distintos dispositivos.
 * Posibilitar el cobro de inscripciones de equipos a torneos.
 
 Sistema Objeto
 --------------
+El presente proyecto constará de dos plataformas: web y mobile. La primera se garantizará que el usuario pueda
+acceder a todas las funcionalidades del sistema, mientras que la segunda, se ocupará de limitar las funcionalidades
+de acuerdo a lo que la plataforma exige.
 
+A continuación se describirán los distintos módulos para la aplicación WEB:
+1.
+2.
+3.
 
-
+En cuanto a los módulos a implementar sobre la aplicación MOBILE:
+1.
+2.
+3.
 
 Marco Teórico
 --------------
-
