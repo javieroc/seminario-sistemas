@@ -125,6 +125,8 @@ Metodologías ágiles
 
 El movimiento ágil busca alternativas al manejo de proyectos tradicional. Los enfoques ágiles ayudan a los equipos a responder a la impredecibilidad a través de un trabajo incremental e iterativo y un feedback empírico, es decir a través de corrección de fallos. Además, se proponen alternativas al desarrollo en cascada y secuencias tradicionales de desarrollo.
 
+¿Por qué elegirlas? Proveen oportunidades para evaluar la dirección de un proyecto a través del desarrollo de su ciclo de vida. Esto se logra a través de un trabajo regular, conocido como iteración, donde al final, cada equipo, deberá presentar un producto potencialmente entregable. A través de repeticiones breves de ciclos de vida, así como tambien de productos funcionales, la metodología ágil se describe como iterativa e incremental. En los desarrollos en cascada, los equipos tienen una única chance de conseguir un aspecto de proyecto correcto, mientras que en el paradigma ágil, cada aspecto de desarrollo, requerimientos, diseño, etc., es contínuamente revisado a través del ciclo de vida. Cuando un equipo se para y re-evalúa la dirección de un proyecto cada dos semanas, siempre hay tiempo para encaminarse en otra dirección.
+
 SCRUM
 #####
 
@@ -133,3 +135,22 @@ Es el camino más popular de introducción a la "Agilidad" debido a su simplicid
 Se considera a Scrum un framework para el desarrollo incremental de productos, utilizando equipos interfuncionales y auto-organizados. Provee una estructura de roles, meetings, reglas y artefactos, donde los equipos son los responsables de crear y adaptar sus procesos dentro de este framework.
 
 Por otro lado, Scrum utiliza iteraciones de longitud fija: Sprints. Los Sprints no son mayores a 30 días, preferentemente menores. Los equipos de Scrum tratan de construir un incrementos de producto (apropiadamente probado) por cada Sprint.
+
+SCRUM vs CASCADA
+################
+
+El enfoque incremental e iterativo cambia las fases de desarrollo tradicional del modelo cascada por la habilidad de desarrollar un conjunto de características de alto valor incorporando feedback lo más pronto posible.
+
+.. figure:: pictures/cascada.png
+  :scale: 75%
+  :alt: cascada
+
+  Modelo en cascada tradicional.
+  Depende de un entendimiento perfecto de los requerimientos del producto para minimizar el número de errores en cada fase.
+
+.. figure:: pictures/scrumiteration.png
+  :scale: 75%
+  :alt: scrum
+
+  Modelo de iteraciones en Scrum.
+  Une todas las etapas de desarrollo en cada iteración, adaptandolas al descubrimiento de realidades en intervalos fijos.
