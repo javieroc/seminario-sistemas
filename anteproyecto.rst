@@ -155,6 +155,7 @@ El enfoque incremental e iterativo cambia las fases de desarrollo tradicional de
   Modelo de iteraciones en Scrum.
   Une todas las etapas de desarrollo en cada iteración, adaptandolas al descubrimiento de realidades en intervalos fijos.
 
+Las principales desventajas del modelo en cascada son: la inflexibilidad del proyectos en las distintas etapas del mismo, tener que establecer compromisos con el cliente en una etapa temprana, y se dejan los problemas que surgen en la etapa de desarrollo para más adelante.
 El beneficio más grande de Scrum es para trabajos complejos que conlleven creación de conocimiento y colaboración, tales como el desarrollo de un neuvo producto. Generalmente es asociado con el desarrollo de software orientado a objetos.
 
 Características de un equipo Scrum
