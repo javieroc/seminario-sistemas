@@ -127,7 +127,7 @@ El movimiento ágil busca alternativas al manejo de proyectos tradicional. Los e
 
 ¿Por qué elegirlas? Proveen oportunidades para evaluar la dirección de un proyecto a través del desarrollo de su ciclo de vida. Esto se logra a través de un trabajo regular, conocido como iteración, donde al final, cada equipo, deberá presentar un producto potencialmente entregable. A través de repeticiones breves de ciclos de vida, así como tambien de productos funcionales, la metodología ágil se describe como iterativa e incremental. En los desarrollos en cascada, los equipos tienen una única chance de conseguir un aspecto de proyecto correcto, mientras que en el paradigma ágil, cada aspecto de desarrollo, requerimientos, diseño, etc., es contínuamente revisado a través del ciclo de vida. Cuando un equipo se para y re-evalúa la dirección de un proyecto cada dos semanas, siempre hay tiempo para encaminarse en otra dirección.
 
-SCRUM
+Scrum
 #####
 
 Es el camino más popular de introducción a la "Agilidad" debido a su simplicidad y flexibilidad. Debido a su popularidad, muchas organizaciones dicen "hacer Scrum" pero no están siquiera cerca a la definición actual de Scrum. Scrum hace énfasis en el feedback empírico, los equipos se autogestionan y esfuerzan para construir productos debidamente probados con pequeñas iteraciones.
@@ -136,7 +136,7 @@ Se considera a Scrum un framework para el desarrollo incremental de productos, u
 
 Por otro lado, Scrum utiliza iteraciones de longitud fija: Sprints. Los Sprints no son mayores a 30 días, preferentemente menores. Los equipos de Scrum tratan de construir un incrementos de producto (apropiadamente probado) por cada Sprint.
 
-SCRUM vs CASCADA
+Scrum vs Cascada
 ################
 
 El enfoque incremental e iterativo cambia las fases de desarrollo tradicional del modelo cascada por la habilidad de desarrollar un conjunto de características de alto valor incorporando feedback lo más pronto posible.
@@ -154,3 +154,18 @@ El enfoque incremental e iterativo cambia las fases de desarrollo tradicional de
 
   Modelo de iteraciones en Scrum.
   Une todas las etapas de desarrollo en cada iteración, adaptandolas al descubrimiento de realidades en intervalos fijos.
+
+El beneficio más grande de Scrum es para trabajos complejos que conlleven creación de conocimiento y colaboración, tales como el desarrollo de un neuvo producto. Generalmente es asociado con el desarrollo de software orientado a objetos.
+
+Características de un equipo Scrum
+##################################
+
+* Interfuncional: existen miembros de distintas disciplinas: analista de negocios, diseñadores, expertos del dominio, etc.
+* Auto-organizado / auto-gestionado.
+* Se planea un Sprint a la vez con el Product Owner.
+* Posee autonomía de acuerdo a cómo desarrollar cada incremento.
+* Intensamente colaborativo.
+* Muy exitoso cuando todo el equipo se encuentra en la misma sala, particularmente para los primeros Sprints.
+* Muy exitoso a largo plazo cuando existe permanencia de los miembros a largo plazo.
+* De 3 a 9 miembros.
+* Tiene un rol de liderazgo.
