@@ -170,3 +170,56 @@ Características de un equipo Scrum
 * Muy exitoso a largo plazo cuando existe permanencia de los miembros a largo plazo.
 * De 3 a 9 miembros.
 * Tiene un rol de liderazgo.
+
+Roles
+#####
+
+Product Owner
+*************
+
+Es el responsable de hacer uso del "Product Backlog" para asegurar las características funcionales más valuables son producidas primero; esto se consigue priorizando el Product Backlog para encolar los requerimientos más valiosos para la siguiente iteración.
+
+Equipo
+*******
+
+Responsable de desarrollar la funcionalidad. Los equipos generalmente son auto-gestionados, auto-organizados, e interdisciplinarios, y además son responsables de darse cuenta de como tornar el Product Backlog en incrementos de funcionalidad dentro de una iteración y manejar su propio trabajo para llevarlo a cabo.
+
+Los miembros del equipo colectivamente responsables del éxito de cada iteración y del proyecto como un todo.
+
+Scrum Master
+************
+
+Es responsable de que el proceso Scrum se lleve a cabo con éxito, de enseñar Scrum a cada persona involucrada en el proyecto, e implementar Scrum de tal modo que encaje dentro de la cultura organizacional asegurando que todos sigan las reglas y prácticas de Scrum.
+
+Artefactos
+##########
+
+Product Backlog
+***************
+
+Los requerimientos para el sistema o el producto siendo desarrollados por el proyecto son listados en Product Backlog. El Product Owner es el responsable de los contenidos, priorización y disponibilidad del Product Backlog. Éste último nunca se completa, y es utilizado en el plan del proyecto como una estimación inicial de los requerimientos. El Product Backlog evoluciona con el producto y el entorno en el cual se desarrolla. Es dinámico, manejando constántemente los cambios identificando qué necesidades debe satisfacer el producto. Mientras el producto exista, el Product Backlog también lo hará.
+
+Product Backlog Item
+**********************
+
+Describe el qué más que el cómo de un feature centrado en el cliente. Generalmente son escritos como Historias de Usuario, a veces poseyendo un item de criterio de aceptación.
+
+Sprint Backlog
+**************
+
+Define el trabajo, o tareas, que el Equipo debe desarrollar durante un Sprint en particular. El equipo compila una lista inicial de estas tareas en la segunda parte del Sprint Planning Meeting. Las tareas deben ser divididas de tal forma que puedan ser finalizadas entre 4 y 16 horas. Las tareas que duran más de 16 horas son consideradas como no apropiadamente bien definidas. Sólo el Equipo puede cambiar el Sprint Backlog, y el mismo debe estar ubicado de una manera altamente visible para todo el equipo. Una vez que la tarea es definida, el número de horas restante estimado para completar la tarea se ubica en la intersección de la tarea y el día del Sprint que la persona está trabajando.
+
+Incremento
+**********
+
+Comprende las funcionalidades completadas durante los sprints y liberados cada vez que el Product Owner lo desee. Luego, son inspeccionados durante los Sprint Review Meetings.
+
+Sprint Burndown Chart
+*********************
+
+Se caracteriza por mostrar la suma total de trabajo realizado dentro de cada Sprint, el mismo debe ser actualizado diariamente. Su fin, es facilitar la auto-organización. El Scrum Master debería discontinuar su uso, si el mismo se vuelve un impedimento para la auto-organización del equipo.
+
+Product / Release Burndown Chart
+********************************
+
+Realiza un "tracking" de las tareas faltantes en el Product Backlog para el siguiente Sprint.
