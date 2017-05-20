@@ -3,14 +3,14 @@ Anteproyecto
 ============
 
 .. raw:: PDF
-    
+
     PageBreak
 
 .. contents:: Tabla de contenidos
     :depth: 3
 
 .. raw:: PDF
-    
+
     PageBreak
 
 Introducción
@@ -44,7 +44,7 @@ Objetivos Específicos
 Sistema Objeto
 --------------
 
-El sistema consistirá de dos interfaces, de una mobile y otra web. Se permitirá a los usuarios gestionar torneos, equipos y jugadores; 
+El sistema consistirá de dos interfaces, de una mobile y otra web. Se permitirá a los usuarios gestionar torneos, equipos y jugadores;
 además se contemplará la generación y presentación de estadísticas y reportes. Por otro lado, y no por ello menos importante, se considera
 la administración de fixtures. A continuación se describirá las características principales de cada módulo:
 
@@ -54,7 +54,7 @@ Gestión de usuarios
 Nuestro sistema incluirá los siguientes tipos (roles) de usuarios:
 
 * Organizador: Posee los más altos privilegios sobre el sistema, pudiendo acceder a todas las secciones con la posibilidad de editar cualquier información. Serán los encargados de gestionar torneos, registrar equipos y jugadores.
-* Delegado: Podrá cargar datos pertenecientes al equipo, logo o escudo del mismo y los jugadores. 
+* Delegado: Podrá cargar datos pertenecientes al equipo, logo o escudo del mismo y los jugadores.
 * Árbitro: Se encargará de introducir el acta completa del partido o evento.
 
 Gestión de torneos
@@ -115,7 +115,21 @@ Posibilidad de gestionar equipos, dar de alta o baja jugadores, editando informa
 Incidencias
 ###########
 
-Visualización de estadísticas individuales de cada jugador: goles, tarjetas, tiempos, puntos, etc. 
+Visualización de estadísticas individuales de cada jugador: goles, tarjetas, tiempos, puntos, etc.
 
 Marco Teórico
 --------------
+
+Metodologías ágiles
+###################
+
+El movimiento ágil busca alternativas al manejo de proyectos tradicional. Los enfoques ágiles ayudan a los equipos a responder a la impredecibilidad a través de un trabajo incremental e iterativo y un feedback empírico, es decir a través de corrección de fallos. Además, se proponen alternativas al desarrollo en cascada y secuencias tradicionales de desarrollo.
+
+SCRUM
+#####
+
+Es el camino más popular de introducción a la "Agilidad" debido a su simplicidad y flexibilidad. Debido a su popularidad, muchas organizaciones dicen "hacer Scrum" pero no están siquiera cerca a la definición actual de Scrum. Scrum hace énfasis en el feedback empírico, los equipos se autogestionan y esfuerzan para construir productos debidamente probados con pequeñas iteraciones.
+
+Se considera a Scrum un framework para el desarrollo incremental de productos, utilizando equipos interfuncionales y auto-organizados. Provee una estructura de roles, meetings, reglas y artefactos, donde los equipos son los responsables de crear y adaptar sus procesos dentro de este framework.
+
+Por otro lado, Scrum utiliza iteraciones de longitud fija: Sprints. Los Sprints no son mayores a 30 días, preferentemente menores. Los equipos de Scrum tratan de construir un incrementos de producto (apropiadamente probado) por cada Sprint.
