@@ -252,27 +252,27 @@ Es importante realizar este estudio de factibilidad ya que consiste en una evalu
 
 El tiempo de desarrollo para el proyecto se estima en 4 meses trabajando 6 hrs diarias. El gasto y la inverión requerida para el proyecto a desarrollar se detallan a continuación, algunos valores son aproximados debido a que son conversión de su precio real en dolares:
 
-**Més 1:**
+**Mes 1:**
 
 -   3 Analista programador: $72.000 ($200 por hr).
 -   1 Analista funcional: $28800 ($240 por hr).
 -   Subtotal: $100.800
 
-**Més 2:**
+**Mes 2:**
 
 -   3 Analista programador: $72.000 ($200 por hr).
 -   1 Analista funcional: $28800 ($240 por hr).
 -   Cloud digital ocean para integración continua: $320.
 -   Subtotal: $101.120
 
-**Més 3:**
+**Mes 3:**
 
 -   3 Analista programador: $72.000 ($200 por hr).
 -   1 Analista funcional: $28800 ($240 por hr).
 -   Cloud digital ocean para integración continua: $320.
 -   Subtotal: $101.120
 
-**Més 4:**
+**Mes 4:**
 
 -   3 Analista programador: $72.000 ($200 por hr).
 -   1 Analista funcional: $28800 ($240 por hr).
@@ -286,13 +286,13 @@ El modelo de negocio es el siguiente:
 
 *   Si bien la consulta de determinada información es sin costo, las funcionalidades básicas del sistema se ofrecerán como servicio cobrando una cuota mensual de subscripción de $150 o una subscripción anual de $1500.
 *   Además del servicio en la nube, se ofrecerá la alternativa de descargar el proyecto o clonar el repositorio é instalarlo en un servidor local. Para este caso tendrán la posibilidad de obtener soporte mensual equivalente al costo de 3 (tres) meses de servicio $450 o $4500 en forma anual.
-*   Publicidad en la app mobile, fijo por més sin cargar la app de publicidad, se estima: $500
+*   Publicidad en la app mobile, fijo por Mes sin cargar la app de publicidad, se estima: $500
 
 Los beneficios esperados se detallan a continuación, para ello se harán algunos supuestos.
 
-**Més 1:**
+**Mes 1:**
 
-El primer més después del lanzamiento del servicio se esperan al menos 50 usuarios correspondientes con una estimación de la cantidad de canchas de futbol en Salta que es donde la aplicación llegará más rápido.
+El primer Mes después del lanzamiento del servicio se esperan al menos 50 usuarios correspondientes con una estimación de la cantidad de canchas de futbol en Salta que es donde la aplicación llegará más rápido.
 
 -   40 subscripciones mensuales: $6.000
 -   8 subscripciones anuales: $12.000
@@ -300,9 +300,9 @@ El primer més después del lanzamiento del servicio se esperan al menos 50 usua
 -   Publicidad de al app: 500
 -   Subtotal: $19.400
 
-**Més 2:**
+**Mes 2:**
 
-El segundo més esperamos obtener usuarios de otras disciplinas deportivas no solamente futbol, y además como la aplicación estará en español e ingles, se esperán usuarios de todas partes del mundo. Se estiman un registro aproximado de 250 usuarios.
+El segundo Mes esperamos obtener usuarios de otras disciplinas deportivas no solamente futbol, y además como la aplicación estará en español e ingles, se esperán usuarios de todas partes del mundo. Se estiman un registro aproximado de 250 usuarios.
 
 -   180 subscripciones mensuales: $27.000
 -   60 subscripciones anuales: $90.000
@@ -311,7 +311,7 @@ El segundo més esperamos obtener usuarios de otras disciplinas deportivas no so
 -   Publicidad de al app: $500
 -   Subtotal: $130.100
 
-**Més 3:**
+**Mes 3:**
 
 Se espera seguir creciendo en usuarios activos, aproximadamente 750.
 
@@ -322,13 +322,13 @@ Se espera seguir creciendo en usuarios activos, aproximadamente 750.
 -   Publicidad de al app: $500
 -   Subtotal: $421.500
 
-Total después del tercer més: $571.000
+Total después del tercer Mes: $571.000
 
 Costos totales menos ingresos obtenidos:
 -   Costos totales de desarrollo: $404.560
 -   Ingresos totales obteneidos luego de 3 meses: $571.000
 
-Al tercer més recuperamos lo invertido y obtenemos beneficios de: $166.440
+Al tercer Mes recuperamos lo invertido y obtenemos beneficios de: $166.440
 
 Por los beneficios obtenidos que se lograrán por este desarrollo, el proyecto es factible desde el punto de vista económico.
 
