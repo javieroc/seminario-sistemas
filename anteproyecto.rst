@@ -2,6 +2,10 @@
 Anteproyecto
 ============
 
+.. figure:: portada.png
+  :scale: 100%
+
+
 .. raw:: PDF
 
     PageBreak
@@ -350,11 +354,3 @@ De cualquier manera, en la web estará la documentación necesaria para el uso d
 
 Agenda de actividades
 ---------------------
-
-
-
-
-
-
-
-
