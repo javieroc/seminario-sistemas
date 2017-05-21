@@ -1,7 +1,3 @@
-============
-Anteproyecto
-============
-
 .. figure:: portada.png
   :scale: 125%
 
