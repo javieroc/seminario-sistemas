@@ -10,6 +10,10 @@
 
     PageBreak
 
+.. footer::
+
+    ###Page###
+
 Introducción
 ------------
 
@@ -359,6 +363,10 @@ Diagrama de gant
   :scale: 70%
   :alt: cascada
 
+
+.. raw:: PDF
+
+    PageBreak
 
 Bibliografía
 ------------
