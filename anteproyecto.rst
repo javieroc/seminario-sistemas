@@ -221,6 +221,62 @@ Product / Release Burndown Chart
 
 Realiza un "tracking" de las tareas faltantes en el Product Backlog para el siguiente Sprint [1]_.
 
+Taiga
+######
+
+Una plataforma para administración de proyectos ágiles, libre y greatuita.
+
+Características:
+
+* Potente
+* Simple e intuitiva
+* Buen diseño
+* Personalizable
+
+Permite una buena integración con la metodología SCRUM, proponiendo una única experiencia para el Project Manager y los Desarrolladores.
+La plataforma estará integrada con tareas que se relacionarán directamente con una plataforma de versionado de código Github.
+
+.. figure:: pictures/taiga.jpg
+  :scale: 100%
+  :alt: taiga
+
+
+Arquitectura N-Tier
+###################
+
+En ingeniería de software, una arquitectura multi-tier o n-tier, es una arquitectura tipo cliente-servidor en la cual, la capa de presentación, el procesamiento de la aplicación y el manejo de los datos son procesos lógicamente separados. Por ejemplo, una aplicación que utiliza un middleware sobre un servicio de datos entre un usuario y una base de datos, emplea una arquitectura n-tier.
+
+* Capa de presentación: El nivel más alto de la aplicación es la interfaz de usuario. Su principal función es traducir las tareas y resultados en algo que el usuario pueda entender.
+* Capa de lógica: Esta capa coordina la aplicación, procesa comandos, toma decisiones de lógica y evaluaciones, y realiza cálculos. Además mueve y procesa los datos entre las dos capas que la rodean.
+* Capa de datos: Es aquí donde se almacena la información y es adquirida a partir de una base de datos o sistema de archivos. La información, luego, es enviada de vuelta a la capa lógica para su procesamiento, y eventualmente devuelta al usuario.
+
+Para poder aplicar este tipo de arquitectura utilizaremos las tecnologías más conocidas y utilizadas en el mundo del desarrollo de software y sistemas web y mobile. A continuación haremos referencia las herramientas que serán utilizadas en cada capa:
+
+* Capa de presentación: En lo que corresponde a la aplicación web, Javascript + ReactJS + Redux. Por otro lado, en la parte mobile: Javascript + React Native + Redux.
+* Capa lógica: PHP + Laravel + Fractal, definiendo un RestAPI.
+* Capa de datos: PostgreSQL.
+
+Seguidamente haremos una breve descripción de cada herramienta.
+
+Front End
+*********
+
+* Javascript: Lenguaje ligero e interpretado, orientado a objetos con funciones de primera clase, más conocido como el lenguaje de script para páginas web, pero también utilizados en muchos entornos sin navegador, tales como node.js o Apache CouchDB. Es un lenguaje script multi-paradigma, basado en prototipos, dinámico, soporta estilos de programación funcional, orientada a objetos e imperativa.
+* React: Una librería de Javascript para construir interfaces de usuario. Características: vistas declarativas, basado en componentes, con el lema "Apréndelo una vez, utilízalo donde sea".
+* React Native: Permite crear aplicaciones móviles utilizando sólo Javascript.
+* Redux: Es un contenedor de estados predecible para aplicaciones Javascript. Ayuda a escribir aplicaciones que se comporten de manera consistente, corriendo en distintos entornos (cliente, servidor y nativos).
+
+Back End
+********
+
+* PHP: Lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
+* Laravel: Un Framework de desarrollo para PHP. Características: expresivo, buena sintaxis, adecuado para trabajos en equipo y con herramientas modernas.
+* Fractal: Provee una capa de presentación y transformación para la salida de datos complejos, permitiendo trabajar cómodamente con el formato JSON.
+
+Datos
+*****
+
+* PostgreSQL: Un potente sistema de código abierto para administrar sistemas de bases de datos.
 
 Estudio de factibilidad
 -----------------------
