@@ -349,6 +349,10 @@ Los potenciales usuarios tanto de la aplicación mobile como web, están familia
 
 De cualquier manera, en la web estará la documentación necesaria para el uso de la aplicación, formas de pago, instalación (en caso de que lo usen en forma local) e información de contacto.
 
+.. raw:: PDF
+
+    PageBreak
+
 Agenda de actividades
 ---------------------
 
