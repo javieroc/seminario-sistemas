@@ -441,6 +441,3 @@ Bibliografía
 .. [3] `scrum reference card`_
 
 .. _`scrum reference card`: http://scrumreferencecard.com/ScrumReferenceCard_v0_9l-es.pdf
-
-
-.. footer:: ESTO ES FOOTER
