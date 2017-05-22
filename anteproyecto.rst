@@ -18,7 +18,9 @@ Introducción
 ------------
 
 El presente proyecto titulado *Sistemas de administración de torneos* surge como respuesta
-a la necesidad de los organizadores de eventos deportivos, para agilizar la gestión de torneos y equipos. Además la presente propuesta ayudará a la difusión de torneos por redes sociales, inscripción de los equipos
+a la necesidad de los organizadores de eventos deportivos, para agilizar la gestión de torneos y equipos. Además la presente propuesta ayudará a la difusión de torneos por redes sociales, inscripción de los equipos a torneos de distintas disciplinas y algo importante, poder localizar los torneos por lugar geográfico.
+
+Una segunda necesidad que se cubrirá, es centralizar todos los torneos que se realicen en distintas ubicaciones geográficas y poder dar la posibilidad a los equipos o personas individuales (por ejemplo: ajedrez), de conocer e inscribirse a los torneos a tiempo.
 
 Objetivos
 ---------
@@ -62,6 +64,7 @@ Nuestro sistema incluirá los siguientes tipos (roles) de usuarios:
 En cuanto a esta sección dispondremos de lo siguiente:
 
 * Alta baja y modificación de torneos: Se podrán crear distintos tipos de torneos, tipo todos contra todos (liga), tipo eliminación directa,  tipo todos contra todos por grupo y tipo round robin.
+* Mostrar los torneos según la zona geográfica en que se encuentre el usuario.
 * Fixture automático: Realizará el sorteo de cruces de forma automática.
 * Importación a partir de planillas excel: Se podrá importar un fixture activo a nuestra competición, procesando los datos, adjudicando puntos correspondientes a los equipos que jugaron previamente algún partido.
 * Administrador de clasificaciones: Realizarán el cálculo y reparto de puntos, permitiendo la edición manual de los resultados.
