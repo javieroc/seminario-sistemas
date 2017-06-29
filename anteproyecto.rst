@@ -138,7 +138,7 @@ Por otro lado, Scrum utiliza iteraciones de longitud fija: Sprints. Los Sprints 
 Scrum vs Cascada
 ****************
 
-El enfoque incremental e iterativo cambia las fases de desarrollo tradicional del modelo cascada por la habilidad de desarrollar un conjunto de características de alto valor incorporando feedback lo más pronto posible.
+El enfoque incremental e iterativo cambia las fases de desarrollo tradicional del modelo cascada por la habilidad de desarrollar un conjunto de características de alto valor incorporando feedback lo más pronto posible. (Scrum Reference Card - Michael James)
 
 .. figure:: pictures/cascada.png
   :scale: 75%
@@ -152,7 +152,7 @@ El enfoque incremental e iterativo cambia las fases de desarrollo tradicional de
   :alt: scrum
 
   Modelo de iteraciones en Scrum.
-  Une todas las etapas de desarrollo en cada iteración, adaptandolas al descubrimiento de realidades en intervalos fijos.
+  Une todas las etapas de desarrollo en cada iteración, adaptandolas al descubrimiento de realidades en intervalos fijos. (Scrum Reference Card - Michael James)
 
 Las principales desventajas del modelo en cascada son: la inflexibilidad del proyectos en las distintas etapas del mismo, tener que establecer compromisos con el cliente en una etapa temprana, y se dejan los problemas que surgen en la etapa de desarrollo para más adelante.
 El beneficio más grande de Scrum es para trabajos complejos que conlleven creación de conocimiento y colaboración, tales como el desarrollo de un neuvo producto. Generalmente es asociado con el desarrollo de software orientado a objetos [3]_.
@@ -241,7 +241,7 @@ La plataforma estará integrada con tareas que se relacionarán directamente con
 .. figure:: pictures/taiga.jpg
   :scale: 100%
   :alt: taiga
-
+  (www.taiga.io)
 
 Arquitectura N-Tier
 ###################
