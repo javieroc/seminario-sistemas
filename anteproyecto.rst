@@ -403,9 +403,19 @@ Los potenciales usuarios tanto de la aplicación mobile como web, están familia
 
 De cualquier manera, en la web estará la documentación necesaria para el uso de la aplicación, formas de pago, instalación (en caso de que lo usen en forma local) e información de contacto.
 
+Roles
+-----
+
+Dentro del marco de la metodología SCRUM contamos con:
+
+- Scrum Master: Flores Facundo
+- Product Owner: Ocampo Javier
+- Equipo de desarrollo: Esquinazi, Daniel / Novoa, Matias.
 
 Agenda de actividades
 ---------------------
+
+Cada SPRINT será de 2 (dos) semanas.
 
 .. figure:: pictures/actividades.png
   :scale: 50%
