@@ -343,7 +343,6 @@ Total del desarrollo: $404.560
 El modelo de negocio es el siguiente:
 
 *   Si bien la consulta de determinada información es sin costo, las funcionalidades básicas del sistema se ofrecerán como servicio cobrando una cuota mensual de subscripción de $150 o una subscripción anual de $1500.
-*   Además del servicio en la nube, se ofrecerá la alternativa de descargar el proyecto o clonar el repositorio é instalarlo en un servidor local. Para este caso tendrán la posibilidad de obtener soporte mensual equivalente al costo de 3 (tres) meses de servicio $450 o $4500 en forma anual.
 *   Publicidad en la app mobile, fijo por Mes sin cargar la app de publicidad, se estima: $500
 
 Los beneficios esperados se detallan a continuación, para ello se harán algunos supuestos.
@@ -353,40 +352,35 @@ Los beneficios esperados se detallan a continuación, para ello se harán alguno
 El primer Mes después del lanzamiento del servicio se esperan al menos 50 usuarios correspondientes con una estimación de la cantidad de canchas de futbol en Salta que es donde la aplicación llegará más rápido.
 
 -   40 subscripciones mensuales: $6.000
--   8 subscripciones anuales: $12.000
--   2 soportes mensuales: $900
+-   10 subscripciones anuales: $15.000
 -   Publicidad de al app: 500
--   Subtotal: $19.400
+-   Subtotal: $21.500
 
 **Mes 2:**
 
 El segundo Mes esperamos obtener usuarios de otras disciplinas deportivas no solamente futbol, y además como la aplicación estará en español e ingles, se esperán usuarios de todas partes del mundo. Se estiman un registro aproximado de 250 usuarios.
 
--   180 subscripciones mensuales: $27.000
+-   190 subscripciones mensuales: $28.500
 -   60 subscripciones anuales: $90.000
--   8 soportes mensuales: $3.600
--   2 soportes anuales: $9.000
 -   Publicidad de al app: $500
--   Subtotal: $130.100
+-   Subtotal: $119.000
 
 **Mes 3:**
 
 Se espera seguir creciendo en usuarios activos, aproximadamente 750.
 
--   500 subscripciones mensuales: $70.000
--   150 subscripciones anuales: $225.000
--   80 soportes mensuales: $36.000
--   20 soportes anuales: $90.000
+-   580 subscripciones mensuales: $87.000
+-   170 subscripciones anuales: $255.000
 -   Publicidad de al app: $500
--   Subtotal: $421.500
+-   Subtotal: $342.500
 
-Total después del tercer Mes: $571.000
+Total después del tercer Mes: $483.000
 
 Costos totales menos ingresos obtenidos:
 -   Costos totales de desarrollo: $404.560
--   Ingresos totales obteneidos luego de 3 meses: $571.000
+-   Ingresos totales obteneidos luego de 3 meses: $483.000
 
-Al tercer Mes recuperamos lo invertido y obtenemos beneficios de: $166.440
+Al tercer Mes recuperamos lo invertido y obtenemos beneficios de: $78.440
 
 Por los beneficios obtenidos que se lograrán por este desarrollo, el proyecto es factible desde el punto de vista económico.
 
