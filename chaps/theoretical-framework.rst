@@ -144,10 +144,11 @@ Seguidamente haremos una breve descripción de cada herramienta.
 Front End
 *********
 
-* Javascript: Lenguaje ligero e interpretado, orientado a objetos con funciones de primera clase, más conocido como el lenguaje de script para páginas web, pero también utilizados en muchos entornos sin navegador, tales como node.js o Apache CouchDB. Es un lenguaje script multi-paradigma, basado en prototipos, dinámico, soporta estilos de programación funcional, orientada a objetos e imperativa.
-* React: Una librería de Javascript para construir interfaces de usuario. Características: vistas declarativas, basado en componentes, con el lema "Apréndelo una vez, utilízalo donde sea".
+* ReasonML: Nos permite escribis código simple, rápido y de calidad, añadiendo soporte para tipos de datos aprovechando los ecosistemas de Javascript y OCaml.
+* Reason-React: Una librería ReasonML para construir interfaces de usuario. Características: Se aprovecha el sistema de tipo de datos para crear una librería con los tipos necesarios. Liviano, con soporte para la comunidad de ReactJS. Fácil integración con aplicaciones desarrolladas ya existentes y en producción.
 * React Native: Permite crear aplicaciones móviles utilizando sólo Javascript.
 * Redux: Es un contenedor de estados predecible para aplicaciones Javascript. Ayuda a escribir aplicaciones que se comporten de manera consistente, corriendo en distintos entornos (cliente, servidor y nativos).
+* Reason-Apollo: Una librería basada en ReasonML y Apollo, brindando una API para acceder a GraphQL de manera universal. 
 
 Back End
 ********

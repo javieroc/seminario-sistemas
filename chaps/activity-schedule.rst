@@ -1,17 +1,18 @@
 Agenda de actividades
 ---------------------
 
-Cada SPRINT será de 2 (dos) semanas.
+Se define un plazo de 2 semanas para cada Sprint. Cada uno de ellos constará con:
 
-.. figure:: pictures/actividades.png
-  :scale: 50%
-  :alt: cascada
+- Sprint planning
+- Sesión para el refinamiento de tareas
+- Sprint retrospective
+- Desarrollo de Features
+- Ejecución de Quality Assurance
 
+Diagrama de Actividades y Gantt
 
-Diagrama de gant
-
-.. figure:: pictures/gant.png
-  :scale: 70%
+.. figure:: pictures/activities.jpeg
+  :scale: 21%
   :alt: cascada
 
 .. raw:: PDF
