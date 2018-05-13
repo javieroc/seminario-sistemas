@@ -141,14 +141,18 @@ Para poder aplicar este tipo de arquitectura utilizaremos las tecnologías más 
 
 Seguidamente haremos una breve descripción de cada herramienta.
 
+Lenguaje
+*********
+
+* Typescript: Un lenguaje que compila a Javascript de manera simple y elegante, pudiendo correr en cualquier Navegador web, Node.js, y cualquier motor que soporte ECMAScript 3 en adelante. Nos ofrece además potentes herramientas para aplicaciones a gran escala, permitiéndonos un desarrollo productivo a través de chequeo estático y refactorización de código cuando nos basamos en entornos Javascript.
+
 Front End
 *********
 
-* ReasonML: Nos permite escribis código simple, rápido y de calidad, añadiendo soporte para tipos de datos aprovechando los ecosistemas de Javascript y OCaml.
-* Reason-React: Una librería ReasonML para construir interfaces de usuario. Características: Se aprovecha el sistema de tipo de datos para crear una librería con los tipos necesarios. Liviano, con soporte para la comunidad de ReactJS. Fácil integración con aplicaciones desarrolladas ya existentes y en producción.
+* React: Nos permite escribis código simple, rápido y de calidad, añadiendo soporte para tipos de datos aprovechando los ecosistemas de Javascript y OCaml.
 * React Native: Permite crear aplicaciones móviles utilizando sólo Javascript.
 * Redux: Es un contenedor de estados predecible para aplicaciones Javascript. Ayuda a escribir aplicaciones que se comporten de manera consistente, corriendo en distintos entornos (cliente, servidor y nativos).
-* Reason-Apollo: Una librería basada en ReasonML y Apollo, brindando una API para acceder a GraphQL de manera universal. 
+* Apollo: Brinda una API para acceder a GraphQL de manera universal.
 
 Back End
 ********
