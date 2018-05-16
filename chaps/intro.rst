@@ -1,7 +1,16 @@
 Introducción
 ------------
 
-El presente proyecto titulado *Sistemas de administración de torneos* surge como respuesta
-a la necesidad de los organizadores de eventos deportivos, para agilizar la gestión de torneos y equipos. Además la presente propuesta ayudará a la difusión de torneos por redes sociales, inscripción de los equipos a torneos de distintas disciplinas y algo importante, poder localizar los torneos por lugar geográfico.
+El proyecto titulado *Sistema de administración de torneos* surge como una propuesta para
+permitir a organizadores de torneos gestionar, compartir
+y agilizar el manejo de información sobre torneos deportivos.
+La idea es concentrar en una misma aplicación la información sobre jugadores, equipos y torneos,
+que usuarios con distintos perfiles vayan generando.
 
-Una segunda necesidad que se cubrirá, es centralizar todos los torneos que se realicen en distintas ubicaciones geográficas y poder dar la posibilidad a los equipos o personas individuales (por ejemplo: ajedrez), de conocer e inscribirse a los torneos a tiempo.
+Al centralizar toda la información se podrá dar a conocer la apertura de nuevos torneos.
+Permitir la inscripción a torneos a través de internet.
+Darle seguimiento al fixture y conocer el reultado de cada fecha.
+Generar distintos tipos de estadísticas sobre los torneos, equipos y jugadores.
+Localizar los torneos a través de su localización geográfica.
+
+La aplicación se podrá acceder desde un navegador web o desde una aplicación mobile.
