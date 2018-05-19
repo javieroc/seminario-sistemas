@@ -1,22 +1,17 @@
 Bibliografía
 ------------
 
-* [1] `Agile Project Management with Scrum`_
+* [1] Agile Project Management with Scrum - Ken Schwaber - 2004 http://dbmanagement.info/Books/MIX/Agile_Project_Management_With_Scrum.pdf
 
-.. _`Agile Project Management with Scrum`: http://dbmanagement.info/Books/MIX/Agile_Project_Management_With_Scrum.pdf
 
-* [2] `agile methodology`_
+* [2] Agile methodology - http://agilemethodology.org/
 
-.. _`agile methodology`: http://agilemethodology.org/
 
-* [3] `scrum reference card`_
+* [3] Scrum reference card - Michael James - http://scrumreferencecard.com/ScrumReferenceCard_v0_9l-es.pdf
 
-.. _`scrum reference card`: http://scrumreferencecard.com/ScrumReferenceCard_v0_9l-es.pdf
 
-* [4] `JWT Introduction`_
+* [4] JWT Introduction - https://jwt.io/introduction/
 
-.. _`JWT Introduction`: https://jwt.io/introduction/
 
-* [5] `Graphql Home Page`_
+* [5] Graphql Home Page - https://graphql.org/
 
-.. _`Graphql Home Page`: https://graphql.org/
