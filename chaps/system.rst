@@ -1,17 +1,29 @@
 Sistema Objeto
 --------------
 
-El sistema consistirá de dos interfaces, de una mobile y otra web. Se permitirá a los usuarios gestionar torneos, equipos y jugadores;
-además se contemplará la generación y presentación de estadísticas y reportes. Por otro lado, y no por ello menos importante, se considera
-la administración de fixtures. A continuación se describirá las características principales de cada módulo:
+En terminos generales, la aplicación gestionará los datos de torneos, equipos y jugadores, para a partir de esta, generar información
+relevante sobre dichos datos. La mejor manera de encarar este proyecto es con una arquitectura de microservicios, dicha arquitectura se
+detallará más en profundidad luego, pero es importante destacar que las features descritas a continuación serán en implementadas por uno o más
+de los pequeños servicios que conforman la aplicación.
+
 
 **Gestión de usuarios**
 
-Nuestro sistema incluirá los siguientes tipos (roles) de usuarios:
+Se gestionarán dos tipos de usuario, registrados y no registrados ó anónimos. Dentro de los usuarios registrados tendremos distintas
+categorías según el tipo de plan que contraten. Todos los usuarios registrados tendrán acceso a todas las features de la aplicación, pero
+con distinas restricciones dependiendo de su plan. Disponderemos de dos tipos planes para esta versión gold y platinum.
 
-* Organizador: Posee los más altos privilegios sobre el sistema, pudiendo acceder a todas las secciones con la posibilidad de editar cualquier información. Serán los encargados de gestionar torneos, registrar equipos y jugadores.
-* Delegado: Podrá cargar datos pertenecientes al equipo, logo o escudo del mismo y los jugadores.
-* Árbitro: Se encargará de introducir el acta completa del partido o evento.
+Planes:
+
+* Free: podrá gestionar 1 torneo.
+* Gold: podrá gestionar 5 torneos.
+* Platinum: podrá gestionar torneos de manera ilimitada.
+
+Los usuarios anónimos podrán navegar por las páginas de los torneos y consultar las estadísticas pero no podrá crear ninguna entidad Dentro
+del sistema.
+
+Para la autenticación de usuarios se utilizará JWT un estándar abierto basado en JSON para crear un token que sirva para asegurar
+el envío de datos entre aplicaciones o servicios [4].
 
 **Gestión de torneos**
 
@@ -25,7 +37,7 @@ En cuanto a esta sección dispondremos de lo siguiente:
 * Modalidades: Se implementarán diferentes modalidades según la disciplina para la cual se ha creado el torneo.
 * Deportes: Soporte para múltiples tipos de deportes o disciplinas.
 * Compartir: El torneo podrá ser compartido sobre diferentes redes sociales o a través de un link.
-* Perfil público.
+* Perfil público. Los usuarios Gold o Platinum tendrán disponible una frontpage de su organización y torneos.
 
 **Gestión de equipos**
 
@@ -44,16 +56,12 @@ En cuanto a esta sección dispondremos de lo siguiente:
 
 **Gestión de partidos**
 
-* Cabeceras de actas: Se llenarán automáticamente para poder realizar el arbitraje correspondiente dejándola a disponibilidad de los árbitros en el inicio del partido.
-* Estadísticas: Se guardarán y calcularán las correspondientes estadísticas para su futuro muestreo; así como también dejará disponible todos los datos para la generación de reportes.
-
-**Gestión de imagen**
-
-Administración de la imagen perteneciente al torneo, pudiendo así publicitarla a través de diferentes redes sociales.
+Estadísticas: Se guardarán y calcularán las correspondientes estadísticas; así como también dejará disponible todos los datos para la generación de reportes.
 
 **Notificaciones**
 
-Recepción de notificación a través de distintos usuarios, por ejemplo: horario, fecha, lugar, suspensión, del partido, o bien vencimiento de cuotas.
+Los usuarios inscriptos en torneos recibirán push notifications con información de los torneos en los que está inscripto o es dueño.
+Por ejemplo: horario, fecha, lugar, suspensión del partido, o bien vencimiento de cuotas.
 
 **Fixture**
 
@@ -62,7 +70,6 @@ Registro de los partidos que se jugarán en determinada fecha. Consulta de resul
 **Gestión de Equipos**
 
 Posibilidad de gestionar equipos, dar de alta o baja jugadores, editando información personal, fotos y archivos adjuntos. Además se podrá visualizar el historial de cada equipo, estadísticas, etc.
-
 Solicitud de inscripción a un torneo. El usuario dueño de un equipo podrá enviar solicitudes a diferentes torneos, luego el owner del torneo decidirá si aceptarlo o no.
 
 **Incidencias**

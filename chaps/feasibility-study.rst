@@ -80,7 +80,7 @@ El segundo Mes esperamos obtener usuarios de otras disciplinas deportivas no sol
 
 -   190 subscripciones mensuales: $28.500
 -   60 subscripciones anuales: $90.000
--   Publicidad de al app: $500
+-   Publicidad de la app: $500
 -   Subtotal: $119.000
 
 **Mes 3:**
