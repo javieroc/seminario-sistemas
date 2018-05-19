@@ -55,53 +55,44 @@ Características de un equipo Scrum
 Roles
 #####
 
-Product Owner
-*************
+**Product Owner**
 
 Es el responsable de hacer uso del "Product Backlog" para asegurar las características funcionales más valuables son producidas primero; esto se consigue priorizando el Product Backlog para encolar los requerimientos más valiosos para la siguiente iteración.
 
-Equipo
-*******
+**Equipo**
 
 Responsable de desarrollar la funcionalidad. Los equipos generalmente son auto-gestionados, auto-organizados, e interdisciplinarios, y además son responsables de darse cuenta de como tornar el Product Backlog en incrementos de funcionalidad dentro de una iteración y manejar su propio trabajo para llevarlo a cabo.
 
 Los miembros del equipo colectivamente responsables del éxito de cada iteración y del proyecto como un todo.
 
-Scrum Master
-************
+**Scrum Master**
 
 Es responsable de que el proceso Scrum se lleve a cabo con éxito, de enseñar Scrum a cada persona involucrada en el proyecto, e implementar Scrum de tal modo que encaje dentro de la cultura organizacional asegurando que todos sigan las reglas y prácticas de Scrum [1].
 
 Artefactos
 ##########
 
-Product Backlog
-***************
+**Product Backlog**
 
 Los requerimientos para el sistema o el producto siendo desarrollados por el proyecto son listados en Product Backlog. El Product Owner es el responsable de los contenidos, priorización y disponibilidad del Product Backlog. Éste último nunca se completa, y es utilizado en el plan del proyecto como una estimación inicial de los requerimientos. El Product Backlog evoluciona con el producto y el entorno en el cual se desarrolla. Es dinámico, manejando constántemente los cambios identificando qué necesidades debe satisfacer el producto. Mientras el producto exista, el Product Backlog también lo hará.
 
-Product Backlog Item
-**********************
+**Product Backlog Item**
 
 Describe el qué más que el cómo de un feature centrado en el cliente. Generalmente son escritos como Historias de Usuario, a veces poseyendo un item de criterio de aceptación.
 
-Sprint Backlog
-**************
+**Sprint Backlog**
 
 Define el trabajo, o tareas, que el Equipo debe desarrollar durante un Sprint en particular. El equipo compila una lista inicial de estas tareas en la segunda parte del Sprint Planning Meeting. Las tareas deben ser divididas de tal forma que puedan ser finalizadas entre 4 y 16 horas. Las tareas que duran más de 16 horas son consideradas como no apropiadamente bien definidas. Sólo el Equipo puede cambiar el Sprint Backlog, y el mismo debe estar ubicado de una manera altamente visible para todo el equipo. Una vez que la tarea es definida, el número de horas restante estimado para completar la tarea se ubica en la intersección de la tarea y el día del Sprint que la persona está trabajando.
 
-Incremento
-**********
+**Incremento**
 
 Comprende las funcionalidades completadas durante los sprints y liberados cada vez que el Product Owner lo desee. Luego, son inspeccionados durante los Sprint Review Meetings.
 
-Sprint Burndown Chart
-*********************
+**Sprint Burndown Chart**
 
 Se caracteriza por mostrar la suma total de trabajo realizado dentro de cada Sprint, el mismo debe ser actualizado diariamente. Su fin, es facilitar la auto-organización. El Scrum Master debería discontinuar su uso, si el mismo se vuelve un impedimento para la auto-organización del equipo.
 
-Product / Release Burndown Chart
-********************************
+**Product / Release Burndown Chart**
 
 Realiza un "tracking" de las tareas faltantes en el Product Backlog para el siguiente Sprint [1].
 
@@ -133,35 +124,44 @@ En ingeniería de software, una arquitectura multi-tier o n-tier, es una arquite
 * Capa de lógica: Esta capa coordina la aplicación, procesa comandos, toma decisiones de lógica y evaluaciones, y realiza cálculos. Además mueve y procesa los datos entre las dos capas que la rodean.
 * Capa de datos: Es aquí donde se almacena la información y es adquirida a partir de una base de datos o sistema de archivos. La información, luego, es enviada de vuelta a la capa lógica para su procesamiento, y eventualmente devuelta al usuario.
 
-Para poder aplicar este tipo de arquitectura utilizaremos las tecnologías más conocidas y utilizadas en el mundo del desarrollo de software y sistemas web y mobile. A continuación haremos referencia las herramientas que serán utilizadas en cada capa:
+En este proyecto se desarrolla software para distintas plataformas, web y mobile, la mejor manera para llevar a cabo esto es utilizar una arquitectura
+de microservicios. De esta forma las aplicaciones se conciben como un conjunto de pequeños servicios que se comunican entre sí mediante mecanismos
+ligeros como HTTP. Siguiendo estos conceptos, construiremos una API que nos permita acceder a los recursos (elementos de información) utilizando el lenguaje de
+consulta GraphQL y dos aplicaciones que consuman dicha API, un cliente web y otro mobile.
 
-* Capa de presentación: En lo que corresponde a la aplicación web, Javascript + ReactJS + Redux. Por otro lado, en la parte mobile: Javascript + React Native + Redux.
-* Capa lógica: PHP + Laravel + Fractal, definiendo un RestAPI.
+GraphQL como se mencionó antes, es un lenguaje de consulta para APIs, que nos provee una forma de acceder a los datos que da el poder a los clientes (Web, Mobile)
+de requerir lo que necesitan y obtener exactamente los datos que solicitaron. A diferencia del enfoque REST, GraphQL se organiza en terminos de types y fields, no endpoints.
+
+.. figure:: pictures/arquitectura.jpg
+  :scale: 140%
+  :alt: arquitectura
+
+Para poder aplicar este tipo de arquitectura utilizaremos las tecnologías más conocidas y utilizadas en el mundo del desarrollo de software y sistemas web y mobile.
+A continuación haremos referencia las herramientas que serán utilizadas en cada capa:
+
+* Capa de presentación: En lo que corresponde a la aplicación web, Javascript + ReactJS + Redux + GraphQL. Por otro lado, en la parte mobile: Android + Java + GraphQL.
+* Capa lógica: Node.JS + TypeORM + Apollo GraphQL.
 * Capa de datos: PostgreSQL.
 
 Seguidamente haremos una breve descripción de cada herramienta.
 
-Lenguaje
-*********
+**Lenguajes**
 
 * Typescript: Un lenguaje que compila a Javascript de manera simple y elegante, pudiendo correr en cualquier Navegador web, Node.js, y cualquier motor que soporte ECMAScript 3 en adelante. Nos ofrece además potentes herramientas para aplicaciones a gran escala, permitiéndonos un desarrollo productivo a través de chequeo estático y refactorización de código cuando nos basamos en entornos Javascript.
+* Java: lenguaje orientado a objetos utilizado por defecto para el desarrollo en Android.
 
-Front End
-*********
+**Front End**
 
 * React: Nos permite escribis código simple, rápido y de calidad, añadiendo soporte para tipos de datos aprovechando los ecosistemas de Javascript y OCaml.
-* React Native: Permite crear aplicaciones móviles utilizando sólo Javascript.
 * Redux: Es un contenedor de estados predecible para aplicaciones Javascript. Ayuda a escribir aplicaciones que se comporten de manera consistente, corriendo en distintos entornos (cliente, servidor y nativos).
 * Apollo: Brinda una API para acceder a GraphQL de manera universal.
 
-Back End
-********
+**Back End**
 
-* PHP: Lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
-* Laravel: Un Framework de desarrollo para PHP. Características: expresivo, buena sintaxis, adecuado para trabajos en equipo y con herramientas modernas.
-* Fractal: Provee una capa de presentación y transformación para la salida de datos complejos, permitiendo trabajar cómodamente con el formato JSON.
+* Node.js: entorno de ejecución para Javascript construido sobre el motor v8 de Chrome. Es orientado a eventos y nos permitirá ejecutar Javascript en el servidor [6].
+* TypeORM: es un ORM (Object Relational Mapping) que se integra bien con Node.js y usa Typescript. Nos ayudará a interactuar con nuestra base de datos [7].
+* Apollo GraphQL: es una librería que nos ayuda a conectar los esquemas de GraphQL con un servidor HTTP Node [8].
 
-Datos
-*****
+**Datos**
 
-* PostgreSQL: Un potente sistema de código abierto para administrar sistemas de bases de datos.
+* PostgreSQL: Un potente motor de base de base de datos relacionales open source [9].
