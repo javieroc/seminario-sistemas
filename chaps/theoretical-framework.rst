@@ -164,4 +164,4 @@ Seguidamente haremos una breve descripción de cada herramienta.
 
 **Datos**
 
-* PostgreSQL: Un potente motor de base de base de datos relacionales open source [9].
+* PostgreSQL: Un potente motor de bases de datos relacionales open source [9].
