@@ -115,6 +115,8 @@ La plataforma estará integrada con tareas que se relacionarán directamente con
   :scale: 100%
   :alt: taiga
 
+  Captura de la plataforma Taiga.
+
 Arquitectura N-Tier
 ###################
 

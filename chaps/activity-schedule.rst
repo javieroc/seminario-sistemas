@@ -15,6 +15,8 @@ Diagrama de Actividades y Gantt
   :scale: 21%
   :alt: cascada
 
+  Diagrama de Gantt.
+
 .. raw:: PDF
 
     PageBreak
