@@ -26,14 +26,14 @@ El enfoque incremental e iterativo cambia las fases de desarrollo tradicional de
   :scale: 75%
   :alt: cascada
 
-  Modelo en cascada tradicional.
+  Figura 1: Modelo en cascada tradicional.
   Depende de un entendimiento perfecto de los requerimientos del producto para minimizar el número de errores en cada fase.
 
 .. figure:: pictures/scrumiteration.png
   :scale: 75%
   :alt: scrum
 
-  Modelo de iteraciones en Scrum.
+  Figura 2: Modelo de iteraciones en Scrum.
   Une todas las etapas de desarrollo en cada iteración, adaptandolas al descubrimiento de realidades en intervalos fijos. (Scrum Reference Card - Michael James)
 
 Las principales desventajas del modelo en cascada son: la inflexibilidad del proyectos en las distintas etapas del mismo, tener que establecer compromisos con el cliente en una etapa temprana, y se dejan los problemas que surgen en la etapa de desarrollo para más adelante.
@@ -115,7 +115,7 @@ La plataforma estará integrada con tareas que se relacionarán directamente con
   :scale: 100%
   :alt: taiga
 
-  Captura de la plataforma Taiga.
+  Figura 3: Captura de la plataforma Taiga.
 
 Arquitectura N-Tier
 ###################
@@ -137,6 +137,8 @@ de requerir lo que necesitan y obtener exactamente los datos que solicitaron. A 
 .. figure:: pictures/arquitectura.jpg
   :scale: 140%
   :alt: arquitectura
+
+  Figura 4: Arquitectura de microservicios.
 
 Para poder aplicar este tipo de arquitectura utilizaremos las tecnologías más conocidas y utilizadas en el mundo del desarrollo de software y sistemas web y mobile.
 A continuación haremos referencia las herramientas que serán utilizadas en cada capa:

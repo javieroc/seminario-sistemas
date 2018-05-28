@@ -10,8 +10,8 @@ de los pequeños servicios que conforman la aplicación.
 **Gestión de usuarios**
 
 Se gestionarán dos tipos de usuario, registrados y no registrados ó anónimos. Dentro de los usuarios registrados tendremos distintas
-categorías según el tipo de plan que contraten. Todos los usuarios registrados tendrán acceso a todas las features de la aplicación, pero
-con distinas restricciones dependiendo de su plan. Disponderemos de dos tipos planes para esta versión gold y platinum.
+categorías según el tipo de plan que contraten. Todos los usuarios registrados tendrán acceso a todas las características de la aplicación, pero
+con distinas restricciones dependiendo de su plan. Dispondremos de dos tipos planes para esta versión, gold y platinum.
 
 Planes:
 
@@ -19,7 +19,7 @@ Planes:
 * Gold: podrá gestionar 5 torneos.
 * Platinum: podrá gestionar torneos de manera ilimitada.
 
-Los usuarios anónimos podrán navegar por las páginas de los torneos y consultar las estadísticas pero no podrá crear ninguna entidad Dentro
+Los usuarios anónimos podrán navegar por las páginas de los torneos y consultar las estadísticas pero no podrá crear ninguna entidad dentro
 del sistema.
 
 Para la autenticación de usuarios se utilizará JWT un estándar abierto basado en JSON para crear un token que sirva para asegurar
@@ -43,7 +43,6 @@ En cuanto a esta sección dispondremos de lo siguiente:
 
 * Gestión de altas y bajas: Permitirá la administración de los integrantes del equipos.
 * Tipos de equipos: Individual o grupal.
-* Perfil público.
 * Inscripción: Se presentarán formularios de inscripción para equipos. Se permiten dos modalidades: creación de equipo a través de torneo, o bien crear un equipo y luego ligarlo a un torneo.
 * Gestión de pagos: Se incluirán modalidades de pago, por paypal, transferencia bancaria o bien en mano.
 
@@ -52,7 +51,6 @@ En cuanto a esta sección dispondremos de lo siguiente:
 * Alta o baja de jugadores.
 * Enlace con el / los equipos.
 * Impresión de fichas: los jugadores de cada equipo contarán con fichas personalizadas conteniendo datos y foto de cada uno de ellos.
-* Perfil público.
 
 **Gestión de partidos**
 
