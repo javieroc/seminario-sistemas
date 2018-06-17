@@ -1,3 +1,7 @@
+.. raw:: PDF
+
+   PageBreak
+
 Agenda de actividades
 ---------------------
 
@@ -9,10 +13,15 @@ Se define un plazo de 2 semanas para cada Sprint. Cada uno de ellos constará co
 - Desarrollo de Features
 - Ejecución de Quality Assurance
 
-Diagrama de Actividades y Gantt
+A continuación se presentará el Diagrama de Actividades y Gantt
+
+.. raw:: PDF
+
+   PageBreak
+
 
 .. figure:: pictures/activities.jpeg
-  :scale: 21%
+  :scale: 29%
   :alt: cascada
 
   Figura 5: Diagrama de Gantt.
