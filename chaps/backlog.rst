@@ -166,7 +166,7 @@ Backlog
 | #7 Lista de equipos por torneo.                                                           |
 +-------------------------------------------------------------------------------------------+
 | **Descripción**: Como usuario deseo poder observar la lista de mis equipos para un torneo |
-|  en particular, de tal manera que me permita visualizar y  obtener                        |
+| en particular, de tal manera que me permita visualizar y  obtener                         |
 | información básica de un equipo.                                                          |
 +-------------------------------------------------------------------------------------------+
 | **Criterios de aceptación:**                                                              |
@@ -422,10 +422,10 @@ Backlog
 +---------------------------------------------------------------------------------------------------------+
 | **Criterios de aceptación:**                                                                            |
 | 1. En una tabla se deberá reflejar información según el tipo de juego, y                                |
-|    deberé poder dirigirme a dicha página desde la tabla de equipos.                                     |
+| deberé poder dirigirme a dicha página desde la tabla de equipos.                                        |
 | 2. La primera columna en común será el nombre del jugador.                                              |
 | 3. Para el tipo de juego fútbol la información a presentar será:                                        |
-|    goles,  goles en contra, tarjetas amarillas y rojas, asistencias.                                    |
+| goles,  goles en contra, tarjetas amarillas y rojas, asistencias.                                       |
 | 4. Debo tener la posibilidad de volver a la lista de equipos                                            |
 +---------------------------------------------------------------------------------------------------------+
 | Story points: 2                                                                                         |
