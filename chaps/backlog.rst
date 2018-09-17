@@ -381,11 +381,69 @@ Backlog
 | Story points: 3                                                                                            |
 +------------------------------------------------------------------------------------------------------------+
 
+.. figure:: pictures/backlog/18/vista-previa.png
+  :scale: 80%
+
+  Fixture vista previa.
+
+.. figure:: pictures/backlog/18/agregar-generacion-fixture.png
+  :scale: 80%
+
+  Boton para generar fixture.
+
+.. figure:: pictures/backlog/18/confirmacion.png
+  :scale: 80%
+
+  Dialogo para confirmar generación de fixture.
+
+.. raw:: PDF
+
+  PageBreak
+
++-------------------------------------------------------------------------------------------+
+| #19 Crear game/match/partido.                                                             |
++-------------------------------------------------------------------------------------------+
+| **Descripción**: Como usuario registrado y creador de un torneo, deseo  poder agregar los |
+|  resultados de los partidos o enfrentamientos una vez concluidos.                         |
++-------------------------------------------------------------------------------------------+
+| **Criterios de aceptación:**                                                              |
+| 1. Crear un juego o partida con los campos date, local_score y visitor_score.             |
+| 2. Vincular el juego con los equipos que se enfretan.                                     |
+| 3. Asociar el partido al fixture.                                                         |
++-------------------------------------------------------------------------------------------+
+| Story points: 3                                                                           |
++-------------------------------------------------------------------------------------------+
 
 
++---------------------------------------------------------------------------------------------------------+
+| #20 Ver estadísticas equipo.                                                                            |
++---------------------------------------------------------------------------------------------------------+
+| **Descripción**: Como usuario registrado deseo poder visualizar las estadísticas de uno de mis equipos. |
++---------------------------------------------------------------------------------------------------------+
+| **Criterios de aceptación:**                                                                            |
+| 1. En una tabla se deberá reflejar información según el tipo de juego, y                                |
+|    deberé poder dirigirme a dicha página desde la tabla de equipos.                                     |
+| 2. La primera columna en común será el nombre del jugador.                                              |
+| 3. Para el tipo de juego fútbol la información a presentar será:                                        |
+|    goles,  goles en contra, tarjetas amarillas y rojas, asistencias.                                    |
+| 4. Debo tener la posibilidad de volver a la lista de equipos                                            |
++---------------------------------------------------------------------------------------------------------+
+| Story points: 2                                                                                         |
++---------------------------------------------------------------------------------------------------------+
 
+.. figure:: pictures/backlog/20/estadisticas-jugadores.png
+  :scale: 80%
 
+  Tabla editable para estadísticas de jugadores.
 
+.. figure:: pictures/backlog/20/estadisticas-equipos-lista.png
+  :scale: 80%
+
+  Lista de equipos, boton para ver estadísticas.
+
+.. raw:: PDF
+
+  PageBreak
 
 
 
