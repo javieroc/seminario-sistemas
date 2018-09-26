@@ -7,12 +7,13 @@ Backlog
 | **Descripción:** como usuario quiero poder registrarme en el sistema.        |
 +------------------------------------------------------------------------------+
 | **Criterios de aceptación:**                                                 |
-| 1. Ingresar nombre y apellido.                                               |
-| 2. Ingresar fecha de nacimiento.                                             |
-| 3. Ingrear Email.                                                            |
-| 4. Ingresar password.                                                        |
-| 5. Ingresar password confirmation.                                           |
-| 6. Validación de todos los campos anteriores.                                |
+|                                                                              |
+|- Ingresar nombre y apellido.                                                 |
+|- Ingresar fecha de nacimiento.                                               |
+|- Ingrear Email.                                                              |
+|- Ingresar password.                                                          |
+|- Ingresar password confirmation.                                             |
+|- Validación de todos los campos anteriores.                                  |
 +------------------------------------------------------------------------------+
 | Story points: 5                                                              |
 +------------------------------------------------------------------------------+
@@ -42,10 +43,11 @@ Backlog
 | **Descripción:** Como usuario registrado deseo poder ingresar al sistema.  |
 +----------------------------------------------------------------------------+
 | **Criterios de aceptación:**                                               |
-| 1. Ingresar email y password.                                              |
-| 2. Validar email y password.                                               |
-| 3. Luego de ingresar se redirecciona al usuario a la página principal.     |
-| 4. Mantener la sesión por 1 semana aunque la aplicación se cierre.         |
+|                                                                            |
+|- Ingresar email y password.                                                |
+|- Validar email y password.                                                 |
+|- Luego de ingresar se redirecciona al usuario a la página principal.       |
+|- Mantener la sesión por 1 semana aunque la aplicación se cierre.           |
 +----------------------------------------------------------------------------+
 | Story points: 5                                                            |
 +----------------------------------------------------------------------------+
@@ -65,11 +67,12 @@ Backlog
 | **Descripción:** Como usuario registrado deseo poder crear un torneo.                                                 |
 +-----------------------------------------------------------------------------------------------------------------------+
 | **Criterios de aceptación:**                                                                                          |
-| 1. Se deben ingresar los campos: nombre de torneo, descripción, fecha de inicio, cantidad de equipos                  |
-| 2. Los campos nombre, cantidad de equipos y fecha de inicio son obligatorios.                                         |
-| 3. La cantidad mínima de equipos es de 2                                                                              |
-| 4. Luego de registrar el torneo exitosamente se redirecciona al usuario a la lista de torneos                         |
-| 5. El torneo deberá tener un estado inicial: "creado". Más adelante se definiran los posibles cambios de estados.     |
+|                                                                                                                       |
+|- Se deben ingresar los campos: nombre de torneo, descripción, fecha de inicio, cantidad de equipos                    |
+|- Los campos nombre, cantidad de equipos y fecha de inicio son obligatorios.                                           |
+|- La cantidad mínima de equipos es de 2                                                                                |
+|- Luego de registrar el torneo exitosamente se redirecciona al usuario a la lista de torneos                           |
+|- El torneo deberá tener un estado inicial: "creado". Más adelante se definiran los posibles cambios de estados.       |
 +-----------------------------------------------------------------------------------------------------------------------+
 | Story points: 3                                                                                                       |
 +-----------------------------------------------------------------------------------------------------------------------+
@@ -90,10 +93,11 @@ Backlog
 | de tal manera que pueda acceder fácilmente a la información de un torneo enparticular.          |
 +-------------------------------------------------------------------------------------------------+
 | **Criterios de aceptación:**                                                                    |
-| 1. Mostrar una tabla con nombre fecha de inicio, descripción, cantidad de equipos, y su estado. |
-| 2. Se desea poder utilizar paginado.                                                            |
-| 3. Se desea poder ordenar por nombre y por fecha.                                               |
-| 4. Se desea poder buscar un torneo a traves de un campo de texto1.                              |
+|                                                                                                 |
+|- Mostrar una tabla con nombre fecha de inicio, descripción, cantidad de equipos, y su estado.   |
+|- Se desea poder utilizar paginado.                                                              |
+|- Se desea poder ordenar por nombre y por fecha.                                                 |
+|- Se desea poder buscar un torneo a traves de un campo de texto1.                                |
 +-------------------------------------------------------------------------------------------------+
 | Story points: 5                                                                                 |
 +-------------------------------------------------------------------------------------------------+
@@ -123,10 +127,11 @@ Backlog
 | **Descripción**: Como usuario registrado deseo poder modificar/editar un torneo particular.                  |
 +--------------------------------------------------------------------------------------------------------------+
 | **Criterios de aceptación:**                                                                                 |
-| 1. Desde la tabla de mis torneos deseo poder seleccionar uno para editarlo.                                  |
-| 2. Se desea poder modificar nombre, descripción, fecha de inicio, cantidad de equipos y su estado.           |
-| 3. Validar los campos modificados                                                                            |
-| 4. Si el torneo se encuentra en progreso, los campos fecha de inicio y cantidad de equipos se dehabilitarán. |
+|                                                                                                              |
+|- Desde la tabla de mis torneos deseo poder seleccionar uno para editarlo.                                    |
+|- Se desea poder modificar nombre, descripción, fecha de inicio, cantidad de equipos y su estado.             |
+|- Validar los campos modificados                                                                              |
+|- Si el torneo se encuentra en progreso, los campos fecha de inicio y cantidad de equipos se dehabilitarán.   |
 +--------------------------------------------------------------------------------------------------------------+
 | Story points: 3                                                                                              |
 +--------------------------------------------------------------------------------------------------------------+
@@ -147,8 +152,9 @@ Backlog
 | dejando la posibilidad de poder recuperar la información en el futuro.                 |
 +----------------------------------------------------------------------------------------+
 | **Criterios de aceptación:**                                                           |
-| 1. Desde la tabla de mis torneos deseo poder seleccionar alguno para eliminarlo        |
-| 2. Deberá mostrarse una notificación para confirmar dicha eliminación                  |
+|                                                                                        |
+|- Desde la tabla de mis torneos deseo poder seleccionar alguno para eliminarlo          |
+|- Deberá mostrarse una notificación para confirmar dicha eliminación                    |
 +----------------------------------------------------------------------------------------+
 | Story points: 2                                                                        |
 +----------------------------------------------------------------------------------------+
@@ -170,8 +176,9 @@ Backlog
 | información básica de un equipo.                                                          |
 +-------------------------------------------------------------------------------------------+
 | **Criterios de aceptación:**                                                              |
-| 1. Se deberá poder paginar una lista de equipos                                           |
-| 2. Se deberá poder ordenar y buscar con filtros                                           |
+|                                                                                           |
+|- Se deberá poder paginar una lista de equipos                                             |
+|- Se deberá poder ordenar y buscar con filtros                                             |
 +-------------------------------------------------------------------------------------------+
 | Story points: 5                                                                           |
 +-------------------------------------------------------------------------------------------+
@@ -202,9 +209,10 @@ Backlog
 | **Descripción**: Como usuario registrado deseo poder crear un equipo.                                               |
 +---------------------------------------------------------------------------------------------------------------------+
 | **Criterios de aceptación:**                                                                                        |
-| 1. Luego de elegir un torneo se deberá poder clickear un botón para crear un equipo ubicado en la lista de equipos. |
-| 2. Se deberá ingresar la siguiente información: nombre de equipo, nombre del capitán o encargado.                   |
-| 3. El campo nombre de equipo y del capitán son obligatorios.                                                        |
+|                                                                                                                     |
+|- Luego de elegir un torneo se deberá poder clickear un botón para crear un equipo ubicado en la lista de equipos.   |
+|- Se deberá ingresar la siguiente información: nombre de equipo, nombre del capitán o encargado.                     |
+|- El campo nombre de equipo y del capitán son obligatorios.                                                          |
 +---------------------------------------------------------------------------------------------------------------------+
 | Story points: 2                                                                                                     |
 +---------------------------------------------------------------------------------------------------------------------+
@@ -224,7 +232,8 @@ Backlog
 | **Descripción**: Como usuario registrado quiero poder modificar la información de uno de mis equipos. |
 +-------------------------------------------------------------------------------------------------------+
 | **Criterios de aceptación:**                                                                          |
-| 1. Se deberá validar cada campo modificado.                                                           |
+|                                                                                                       |
+|- Se deberá validar cada campo modificado.                                                             |
 +-------------------------------------------------------------------------------------------------------+
 | Story points: 2                                                                                       |
 +-------------------------------------------------------------------------------------------------------+
@@ -244,7 +253,8 @@ Backlog
 | **Descripción**: Como usuario registrado quiero poder eliminar uno de mis equipos. |
 +------------------------------------------------------------------------------------+
 | **Criterios de aceptación:**                                                       |
-| 1. Se deberá validar cada campo modificado.                                        |
+|                                                                                    |
+|- Se deberá validar cada campo modificado.                                          |
 +------------------------------------------------------------------------------------+
 | Story points: 2                                                                    |
 +------------------------------------------------------------------------------------+
@@ -264,11 +274,12 @@ Backlog
 | **Descripción**: Como usuario registrado deseo poder registrar los jugadores pertenecientes a un equipo creado por mi.       |
 +------------------------------------------------------------------------------------------------------------------------------+
 | **Criterios de aceptación:**                                                                                                 |
-| 1. En la vista de un equipo se desea visualizar un botón para agregar una lista de jugadores.                                |
-| 2. La información perteneciente a un jugador deberá ser: nombre, apellido, dni, fecha de nacimiento, teléfono, género, email |
-| 3. Los campos nombre, apellido, email serán obligatorios                                                                     |
-| 4. Para facilitar el ingreso de información se requiere una lista dinámica de campos, de esta                                |
-| manera se pueden ingresar múltiples jugadores al mismo tiempo.                                                               |
+|                                                                                                                              |
+|- En la vista de un equipo se desea visualizar un botón para agregar una lista de jugadores.                                  |
+|- La información perteneciente a un jugador deberá ser: nombre, apellido, dni, fecha de nacimiento, teléfono, género, email   |
+|- Los campos nombre, apellido, email serán obligatorios                                                                       |
+|- Para facilitar el ingreso de información se requiere una lista dinámica de campos, de esta                                  |
+|  manera se pueden ingresar múltiples jugadores al mismo tiempo.                                                              |
 +------------------------------------------------------------------------------------------------------------------------------+
 | Story points: 3                                                                                                              |
 +------------------------------------------------------------------------------------------------------------------------------+
@@ -288,9 +299,10 @@ Backlog
 | **Descripción**: Como usuario registrado y dueño de un equipo, deseo poder modificar la información de uno o varios jugadores. |
 +--------------------------------------------------------------------------------------------------------------------------------+
 | **Criterios de aceptación:**                                                                                                   |
-| 1. Se desea validar cada campo modificado                                                                                      |
-| 2. Se deberá poder agregar información adicional de contacto, y extras de cada jugador                                         |
-| 3. Una vez validada la información se redirije al usuario a la lista de jugadores                                              |
+|                                                                                                                                |
+|- Se desea validar cada campo modificado                                                                                        |
+|- Se deberá poder agregar información adicional de contacto, y extras de cada jugador                                           |
+|- Una vez validada la información se redirije al usuario a la lista de jugadores                                                |
 +--------------------------------------------------------------------------------------------------------------------------------+
 | Story points: 2                                                                                                                |
 +--------------------------------------------------------------------------------------------------------------------------------+
@@ -310,7 +322,8 @@ Backlog
 | **Descripción**: Como usuario registrado y dueño de un equipo, deseo poder eliminar jugadores de la lista. |
 +------------------------------------------------------------------------------------------------------------+
 | **Criterios de aceptación:**                                                                               |
-| 1. Se deberá confirmar la eliminación o bien proceder con una cancelación.                                 |
+|                                                                                                            |
+|- Se deberá confirmar la eliminación o bien proceder con una cancelación.                                   |
 +------------------------------------------------------------------------------------------------------------+
 | Story points: 1                                                                                            |
 +------------------------------------------------------------------------------------------------------------+
@@ -330,9 +343,10 @@ Backlog
 | **Descripción**: Como miembro del equipo de desarrollo deseo poder tener el entorno dockerizado para un trabajo más ágil. |
 +---------------------------------------------------------------------------------------------------------------------------+
 | **Criterios de aceptación:**                                                                                              |
-| 1. Levantar un servicio para la base de datos.                                                                            |
-| 2. Levantar un servicio para el cliente web.                                                                              |
-| 3. Levantar un servicio para la API REST                                                                                  |
+|                                                                                                                           |
+|- Levantar un servicio para la base de datos.                                                                              |
+|- Levantar un servicio para el cliente web.                                                                                |
+|- Levantar un servicio para la API REST                                                                                    |
 +---------------------------------------------------------------------------------------------------------------------------+
 | Story points: 1                                                                                                           |
 +---------------------------------------------------------------------------------------------------------------------------+
@@ -343,7 +357,8 @@ Backlog
 | **Descripción**: Como miembro del equipo de desarrollo deseo poder contar con una estructura base para el back-end. |
 +---------------------------------------------------------------------------------------------------------------------+
 | **Criterios de aceptación:**                                                                                        |
-| 1. Generar boilerplate o plantilla y hacer el commit inicial para el proyecto back-end.                             |
+|                                                                                                                     |
+|- Generar boilerplate o plantilla y hacer el commit inicial para el proyecto back-end.                               |
 +---------------------------------------------------------------------------------------------------------------------+
 | Story points: 1                                                                                                     |
 +---------------------------------------------------------------------------------------------------------------------+
@@ -354,7 +369,8 @@ Backlog
 | **Descripción**: Como miembro del equipo de desarrollo deseo poder contar con una base de proyecto para front-end. |
 +--------------------------------------------------------------------------------------------------------------------+
 | **Criterios de aceptación:**                                                                                       |
-| 1. Generar en commit inicial con la estructura del proyecto front-end.                                             |
+|                                                                                                                    |
+|- Generar en commit inicial con la estructura del proyecto front-end.                                               |
 +--------------------------------------------------------------------------------------------------------------------+
 | Story points: 1                                                                                                    |
 +--------------------------------------------------------------------------------------------------------------------+
@@ -365,7 +381,8 @@ Backlog
 | **Descripción**: Como miembro del equipo de desarrollo deseo poder contar con una herramienta de integración contínua. |
 +------------------------------------------------------------------------------------------------------------------------+
 | **Criterios de aceptación:**                                                                                           |
-| 1. Utilizar circle-ci, travis o jenkins.                                                                               |
+|                                                                                                                        |
+|- Utilizar circle-ci, travis o jenkins.                                                                                 |
 +------------------------------------------------------------------------------------------------------------------------+
 | Story points: 3                                                                                                        |
 +------------------------------------------------------------------------------------------------------------------------+
@@ -376,7 +393,8 @@ Backlog
 | **Descripción**: Como organizador de un torneo deseo poder generar un fixture para un torneo de tipo Liga. |
 +------------------------------------------------------------------------------------------------------------+
 | **Criterios de aceptación:**                                                                               |
-| 1. Generar un fixture de todos contra todos de manera automática.                                          |
+|                                                                                                            |
+|- Generar un fixture de todos contra todos de manera automática.                                            |
 +------------------------------------------------------------------------------------------------------------+
 | Story points: 3                                                                                            |
 +------------------------------------------------------------------------------------------------------------+
@@ -407,9 +425,10 @@ Backlog
 |  resultados de los partidos o enfrentamientos una vez concluidos.                         |
 +-------------------------------------------------------------------------------------------+
 | **Criterios de aceptación:**                                                              |
-| 1. Crear un juego o partida con los campos date, local_score y visitor_score.             |
-| 2. Vincular el juego con los equipos que se enfretan.                                     |
-| 3. Asociar el partido al fixture.                                                         |
+|                                                                                           |
+|- Crear un juego o partida con los campos date, local_score y visitor_score.               |
+|- Vincular el juego con los equipos que se enfretan.                                       |
+|- Asociar el partido al fixture.                                                           |
 +-------------------------------------------------------------------------------------------+
 | Story points: 3                                                                           |
 +-------------------------------------------------------------------------------------------+
@@ -421,12 +440,13 @@ Backlog
 | **Descripción**: Como usuario registrado deseo poder visualizar las estadísticas de uno de mis equipos. |
 +---------------------------------------------------------------------------------------------------------+
 | **Criterios de aceptación:**                                                                            |
-| 1. En una tabla se deberá reflejar información según el tipo de juego, y                                |
-| deberé poder dirigirme a dicha página desde la tabla de equipos.                                        |
-| 2. La primera columna en común será el nombre del jugador.                                              |
-| 3. Para el tipo de juego fútbol la información a presentar será:                                        |
-| goles,  goles en contra, tarjetas amarillas y rojas, asistencias.                                       |
-| 4. Debo tener la posibilidad de volver a la lista de equipos                                            |
+|                                                                                                         |
+|- En una tabla se deberá reflejar información según el tipo de juego, y                                  |
+|  deberé poder dirigirme a dicha página desde la tabla de equipos.                                       |
+|- La primera columna en común será el nombre del jugador.                                                |
+|- Para el tipo de juego fútbol la información a presentar será:                                          |
+|  goles,  goles en contra, tarjetas amarillas y rojas, asistencias.                                      |
+|- Debo tener la posibilidad de volver a la lista de equipos                                              |
 +---------------------------------------------------------------------------------------------------------+
 | Story points: 2                                                                                         |
 +---------------------------------------------------------------------------------------------------------+
@@ -446,6 +466,37 @@ Backlog
   PageBreak
 
 
++----------------------------------------------------------------------------------------------------------------+
+| #21 Ver Estadísticas del Jugador                                                                               |
++----------------------------------------------------------------------------------------------------------------+
+| **Descripción**: Como usuario registrado deseo poder ver las estadísticas de un jugador dentro de mis equipos. |
++----------------------------------------------------------------------------------------------------------------+
+| **Criterios de aceptación:**                                                                                   |
+|                                                                                                                |
+|- Desde la lista de jugadores dado un equipo, se deberá redirigir al usuario                                    |
+|  a la página de estadísticas de jugadores.                                                                     |
+|- Desde la nueva página se deberá poder regresar a la lista de jugadores.                                       |
+|- La información a presentar será la relacionada al tipo de juego.                                              |
+|- En el caso de que el tipo de juego sea fútbol, la información a                                               |
+|  describir en gráficas será la correspondiente a: goles por partido                                            |
+|  globales y por temporada, así como también las amonestaciones por temporada.                                  |
++----------------------------------------------------------------------------------------------------------------+
+| Story points: 3                                                                                                |
++----------------------------------------------------------------------------------------------------------------+
+
+.. figure:: pictures/backlog/21/estadisticas-jugador.png
+  :scale: 80%
+
+  Tabla editable para estadísticas de jugadores.
+
+.. figure:: pictures/backlog/21/estadisticas-jugador-lista.png
+  :scale: 80%
+
+  Lista de equipos, boton para ver estadísticas.
+
+.. raw:: PDF
+
+  PageBreak
 
 
 
