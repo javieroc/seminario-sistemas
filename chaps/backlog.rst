@@ -487,16 +487,86 @@ Backlog
 .. figure:: pictures/backlog/21/estadisticas-jugador.png
   :scale: 80%
 
-  Tabla editable para estadísticas de jugadores.
+  Estadística del Jugador.
 
 .. figure:: pictures/backlog/21/estadisticas-jugador-lista.png
   :scale: 80%
 
-  Lista de equipos, boton para ver estadísticas.
+  Lista de Jugadores.
 
 .. raw:: PDF
 
   PageBreak
 
++-----------------------------------------------------------------------------------------------+
+| #22 Agregar comentarios para un partido                                                       |
++-----------------------------------------------------------------------------------------------+
+| **Descripción**: Como usuario deseo poder agregar comentarios a los resultados de un partido. |
++-----------------------------------------------------------------------------------------------+
+| **Criterios de aceptación:**                                                                  |
+|                                                                                               |
+| - Poder ingresar hasta 500 caracteres en un campo de texto.                                   |
+| - Luego de ingresar el texto refrescar los comentarios para saber si han habiado              |
+|  nuevos en el tiempo que se tardó el usuario en escribir el mensaje.                          |
++-----------------------------------------------------------------------------------------------+
+| Story points: 2                                                                               |
++-----------------------------------------------------------------------------------------------+
 
+.. figure:: pictures/backlog/22/partido-vista-con-comentarios.png
+  :scale: 80%
 
+  Agregar comentarios a un partido.
+
+.. raw:: PDF
+
+  PageBreak
+
++--------------------------------------------------------------------------------------------------+
+| #23 Habilitar mensajería entre usuarios                                                          |
++--------------------------------------------------------------------------------------------------+
+| **Descripción**: Como usuario registrado necesito poder contactar a los usuarios del sistema.    |
++--------------------------------------------------------------------------------------------------+
+| **Criterios de aceptación:**                                                                     |
+|                                                                                                  |
+| - Se deberá presentar un formulario detallando el nombre del contacto,                           |
+|  y un campo que me permita ingresar hasta 500 caracteres.                                        |
+| - Como consecuencia se deberá crear una página "bandeja de entrada" para poder                   |
+|  leer los mensajes recibidos: se deberá contar con dos estados para los mensajes,                |
+|  leído y no leído. Además en la misma página se agregará una sección para los mensajes enviados. |
++--------------------------------------------------------------------------------------------------+
+| Story points: 2                                                                                  |
++--------------------------------------------------------------------------------------------------+
+
+.. figure:: pictures/backlog/23/menu-usuario.png
+  :scale: 80%
+
+  Menu de Usuario.
+
+.. figure:: pictures/backlog/23/mensaje-vista.png
+  :scale: 80%
+
+  Vista de un Mensaje recibido.
+
+.. figure:: pictures/backlog/23/ventana-chat.png
+  :scale: 80%
+
+  Cuadro de dialogo para enviar un nuevo mensaje.
+
+.. figure:: pictures/backlog/23/notificacion-nuevo-mensaje.png
+  :scale: 80%
+
+  Notificación de un nuevo mensaje.
+
+.. figure:: pictures/backlog/23/bandeja-entrada-recibidos.png
+  :scale: 80%
+
+  Bandeja de entrada - Mensajes recibidos.
+
+.. figure:: pictures/backlog/23/bandeja-entrada-enviados.png
+  :scale: 80%
+
+  Bandeja de entrada - Mensajes enviados.
+
+.. raw:: PDF
+
+  PageBreak
