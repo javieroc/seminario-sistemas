@@ -505,8 +505,8 @@ Backlog
 +-----------------------------------------------------------------------------------------------+
 | **Criterios de aceptación:**                                                                  |
 |                                                                                               |
-| - Poder ingresar hasta 500 caracteres en un campo de texto.                                   |
-| - Luego de ingresar el texto refrescar los comentarios para saber si han habiado              |
+|- Poder ingresar hasta 500 caracteres en un campo de texto.                                    |
+|- Luego de ingresar el texto refrescar los comentarios para saber si han habiado               |
 |  nuevos en el tiempo que se tardó el usuario en escribir el mensaje.                          |
 +-----------------------------------------------------------------------------------------------+
 | Story points: 2                                                                               |
@@ -528,9 +528,9 @@ Backlog
 +--------------------------------------------------------------------------------------------------+
 | **Criterios de aceptación:**                                                                     |
 |                                                                                                  |
-| - Se deberá presentar un formulario detallando el nombre del contacto,                           |
+|- Se deberá presentar un formulario detallando el nombre del contacto,                            |
 |  y un campo que me permita ingresar hasta 500 caracteres.                                        |
-| - Como consecuencia se deberá crear una página "bandeja de entrada" para poder                   |
+|- Como consecuencia se deberá crear una página "bandeja de entrada" para poder                    |
 |  leer los mensajes recibidos: se deberá contar con dos estados para los mensajes,                |
 |  leído y no leído. Además en la misma página se agregará una sección para los mensajes enviados. |
 +--------------------------------------------------------------------------------------------------+
@@ -566,6 +566,275 @@ Backlog
   :scale: 80%
 
   Bandeja de entrada - Mensajes enviados.
+
+.. raw:: PDF
+
+  PageBreak
+
++--------------------------------------------------------------------------------------------------+
+| #24 Agregar notificaciones                                                                       |
++--------------------------------------------------------------------------------------------------+
+| **Descripción**: Como usuario de la aplicación deseo poder recibir notificaciones en el celular. |
++--------------------------------------------------------------------------------------------------+
+| **Criterios de aceptación:**                                                                     |
+|                                                                                                  |
+|- Se deberá poder visualizar notificaciones al estilo: push notifications.                        |
++--------------------------------------------------------------------------------------------------+
+| Story points: 3                                                                                  |
++--------------------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+| #25 Exportar fixture a excel                                                                                  |
++---------------------------------------------------------------------------------------------------------------+
+| **Descripción**: Como usuario deseo poder exportar el fixture generado a un archivo de formato excel.         |
++---------------------------------------------------------------------------------------------------------------+
+| **Criterios de aceptación:**                                                                                  |
+|                                                                                                               |
+|- Luego de clickear en el botón "Generar Fixture", un archivo será descargado hacia el dispositivo             |
+|  del usuario en formato excel, donde se deberá volcar exactamente la misma información presente en la página. |
++---------------------------------------------------------------------------------------------------------------+
+| Story points: 2                                                                                               |
++---------------------------------------------------------------------------------------------------------------+
+
++-----------------------------------------------------------------------------------------------------+
+| #26 Generar pdf del fixture.                                                                        |
++-----------------------------------------------------------------------------------------------------+
+| **Descripción**: Como usuario deseo poder exportar el fixture generado a un archivo de formato pdf. |
++-----------------------------------------------------------------------------------------------------+
+| **Criterios de aceptación:**                                                                        |
+|                                                                                                     |
+|- Luego de clickear en el botón "Generar Pdf", un archivo será descargado hacia el dispositivo       |
+|  del usuario en formato pdf, donde se deberá volcar exactamente la misma información                |
+|  presente en la página.                                                                             |
++-----------------------------------------------------------------------------------------------------+
+| Story points: 2                                                                                     |
++-----------------------------------------------------------------------------------------------------+
+
+.. figure:: pictures/backlog/25/exportar-a-excel.png
+  :scale: 80%
+
+  Exportar Fixture en un archivo excel.
+
+.. raw:: PDF
+
+  PageBreak
+
++-------------------------------------------------------------------------------------------+
+| #27 Implementar sección de mis noticias                                                   |
++-------------------------------------------------------------------------------------------+
+| **Descripción**: Como usuario registrado y pagando un plan gold o platinum quisiera poder |
+|  agregar noticias públicas de tal manera que cualquier usuario las pueda                  |
+|  visualizar.                                                                              |
++-------------------------------------------------------------------------------------------+
+| **Criterios de aceptación:**                                                              |
+|                                                                                           |
+|- El usuario deberá poder acceder a un historial de las noticias publicadas.               |
+|- El usuario deberá poder administrar las noticias.                                        |
++-------------------------------------------------------------------------------------------+
+| Story points: 8                                                                           |
++-------------------------------------------------------------------------------------------+
+
+.. figure:: pictures/backlog/27/mis-noticias.png
+  :scale: 80%
+
+  Sección de Noticias.
+
+.. raw:: PDF
+
+  PageBreak
+
+
++--------------------------------------------------------------------------------------------------+
+| #28 Importar nuevo equipo desde excel.                                                           |
++--------------------------------------------------------------------------------------------------+
+| **Descripción**: Como usuario deseo poder importar la lista de jugadores para un equipo.         |
++--------------------------------------------------------------------------------------------------+
+| **Criterios de aceptación:**                                                                     |
+|                                                                                                  |
+|- A partir de un archivo excel que contiene las columnas: apellido, nombre, fecha de nacimiento,  |
+|  dirección. Deseo poder importar dicho archivo al sistema.                                       |
+|- Mientras el archivo se encuentra procesando deseo poder continuar navegando y recibir una       |
+|  notificación cuando la carga haya finalizado, permitiendo desde aquí al usuario visualizar      |
+|  la lista cargada.                                                                               |
++--------------------------------------------------------------------------------------------------+
+| Story points: 5                                                                                  |
++--------------------------------------------------------------------------------------------------+
+
+
+.. figure:: pictures/backlog/28/importar-equipo-1.png
+  :scale: 80%
+
+  Botón para importar equipo.
+
+.. figure:: pictures/backlog/28/importar-equipo-2.png
+  :scale: 80%
+
+  Seleccionar archivo desde los archivos de la computadora del usuario.
+
+.. figure:: pictures/backlog/28/importar-equipo-3.png
+  :scale: 80%
+
+  Procesando datos.
+
+.. figure:: pictures/backlog/28/importar-equipo-4.png
+  :scale: 80%
+
+  Proceso de carga de datos finalizado.
+
+.. raw:: PDF
+
+  PageBreak
+
++---------------------------------------------------------------------------------------------------------------------------------+
+| #29 Crear página resultados de la última fecha                                                                                  |
++---------------------------------------------------------------------------------------------------------------------------------+
+| **Descripción**: Como usuario deseo poder acceder a una página donde se visualicen un resumen de resultados de la última fecha. |
++---------------------------------------------------------------------------------------------------------------------------------+
+| **Criterios de aceptación:**                                                                                                    |
+|                                                                                                                                 |
+|- Para calcular la última fecha se deberá tener en cuenta todos los partidos que se jugaron en la última semana                  |
+|- Es necesario poder visualizar los equipos con sus logos con su información básica como ser:                                    |
+|  nombre, director, capitán Mostrar el resultado.                                                                                |
++---------------------------------------------------------------------------------------------------------------------------------+
+| Story points: 3                                                                                                                 |
++---------------------------------------------------------------------------------------------------------------------------------+
+
+.. figure:: pictures/backlog/29/resultados-ultima-fecha.png
+  :scale: 80%
+
+  Lista de resultados de todo el torneo.
+
+.. raw:: PDF
+
+  PageBreak
+
++------------------------------------------------------------------------------------------------------------------------------------------+
+| #30 Agregar una nueva noticia                                                                                                            |
++------------------------------------------------------------------------------------------------------------------------------------------+
+| **Descripción**: Como usuario administrador deseo poder administrar la sección de noticias teniendo la posibilidad de agregar una nueva. |
++------------------------------------------------------------------------------------------------------------------------------------------+
+| **Criterios de aceptación:**                                                                                                             |
+|                                                                                                                                          |
+|- A través de una interfaz deseo poder cargar contenido que le podría resultar interesante al público.                                    |
+|  Ejemplo: eventos atractivos, un posible enfrentamiento apasionante, promociones en el establecimiento, etc.                             |
+|- Se deberá poder cargar la siguiente información: Título  - Foto principal - Contenido.                                                  |
+|- Se deberá poder volver a la lista de notificas luego de la carga exitosa.                                                               |
++------------------------------------------------------------------------------------------------------------------------------------------+
+| Story points: 2                                                                                                                          |
++------------------------------------------------------------------------------------------------------------------------------------------+
+
+.. figure:: pictures/backlog/30/add.png
+  :scale: 80%
+
+  Crear una nueva noticia.
+
+.. raw:: PDF
+
+  PageBreak
+
++----------------------------------------------------------------------------------------------------------------------+
+| #31 Calificar noticia                                                                                                |
++----------------------------------------------------------------------------------------------------------------------+
+| **Descripción**: Como usuario deseo poder votar una noticia.                                                         |
++----------------------------------------------------------------------------------------------------------------------+
+| **Criterios de aceptación:**                                                                                         |
+|                                                                                                                      |
+|- Una interfaz sencilla donde se visualice un pulgar hacia arriba,                                                    |
+|  otro hacia abajo (ambo clickeables para sumar o restar un voto respectivamente) y la cantidad de votos actualmente. |
+|- El usuario no tiene limite de comentarios.                                                                          |
+|- Por el momento no se podrán crear hilos de conversación.                                                            |
++----------------------------------------------------------------------------------------------------------------------+
+| Story points: 2                                                                                                      |
++----------------------------------------------------------------------------------------------------------------------+
+
+.. figure:: pictures/backlog/31/comentario-noticia.png
+  :scale: 80%
+
+  Agregar comentarios y votar una notica.
+
+.. raw:: PDF
+
+  PageBreak
+
++------------------------------------------------------------------+
+| #32 Crear página para lista de torneos públicos                  |
++------------------------------------------------------------------+
+| **Descripción**: Como usuario deseo poder buscar un torneo.      |
++------------------------------------------------------------------+
+| **Criterios de aceptación:**                                     |
+|                                                                  |
+|- El usuario deberera poder ver la lista de torneos disponibles.  |
+|- Se deberá poder filtrar la lista de torneos a través de texto.  |
++------------------------------------------------------------------+
+| Story points: 2                                                  |
++------------------------------------------------------------------+
+
+.. figure:: pictures/backlog/32/torneos-publico.png
+  :scale: 80%
+
+  Lista de torneos públicos.
+
+.. raw:: PDF
+
+  PageBreak
+
++-------------------------------------------------------------------------------------------+
+| #33 Crear página para torneo                                                              |
++-------------------------------------------------------------------------------------------+
+| **Descripción**: Como usuario, luego de proceder con la búsqueda de torneos, deseo poder  |
+| acceder a la información que respecta a un torneo. Dicha página estará                    |
+| disponible en forma pública, de tal manera que los usuarios no                            |
+| registrados también puedan ingresar.                                                      |
++-------------------------------------------------------------------------------------------+
+| **Criterios de aceptación:**                                                              |
+|                                                                                           |
+|- Resumen: Torneos que se jugaron en la última fecha.                                      |
+|- Registración: Si soy un usuario registrado, debería poder accerder a un formulario para  |
+|  registrar instantáneamente un nuevo equipo. En el caso de no ser un usuario registrado   |
+|  esta pestaña permanecerá no visible.                                                     |
+|- Estadísticas de equipos                                                                  |
+|- Sección de fotos                                                                         |
+|- Información del torneo                                                                   |
++-------------------------------------------------------------------------------------------+
+| Story points: 8                                                                           |
++-------------------------------------------------------------------------------------------+
+
+.. figure:: pictures/backlog/33/contactar-capitan.png
+  :scale: 80%
+
+  Cuadro de dialogo para enviar notificacion al capitán de un equipo.
+
+.. figure:: pictures/backlog/33/estadisticas-torneo.png
+  :scale: 80%
+
+  Tabla general del torneo.
+
+.. figure:: pictures/backlog/33/informacion-torneo.png
+  :scale: 80%
+
+  Pestaña con la información del torneo.
+
+.. figure:: pictures/backlog/33/lista-de-equipos.png
+  :scale: 80%
+
+  Lista de equipos participantes del torneo.
+
+.. figure:: pictures/backlog/33/registro-instantaneo.png
+  :scale: 80%
+
+  Formulario para registrar un nuevo equipo al torneo.
+
+.. figure:: pictures/backlog/33/resumen-fecha.png
+  :scale: 80%
+
+  Resultados de la última fecha jugada.
+
+.. figure:: pictures/backlog/33/seccion-fotos.png
+  :scale: 80%
+
+  Fotos del torneo.
+
 
 .. raw:: PDF
 
