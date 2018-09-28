@@ -8,6 +8,14 @@ styles:
       [TOPPADDING, [0, 1], [-1, -1], 5]
       [ALIGN, [ 0, 0 ], [ -1, -1 ], CENTER ]
 
+  backlog:
+    commands: []
+      [VALIGN, [ 0, 0 ], [ -1, -1 ], MIDDLE ]
+      [ROWBACKGROUNDS, [0, 0], [-1, -1], [white]]
+      [GRID, [0, 0], [-1, -1], 0.5, black]
+      [BOTTOMPADDING, [0, 1], [-1, -1], 5]
+      [TOPPADDING, [0, 1], [-1, -1], 5]
+      [ALIGN, [ 0, 0 ], [ -1, -1 ], CENTER ]
 
   table-heading:
     parent : heading
