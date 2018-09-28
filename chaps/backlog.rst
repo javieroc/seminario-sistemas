@@ -835,7 +835,171 @@ Backlog
 
   Fotos del torneo.
 
+.. raw:: PDF
+
+  PageBreak
+
++---------------------------------------------------------------------------------------------------+
+| #34 Administrar estado de torneo.                                                                 |
++---------------------------------------------------------------------------------------------------+
+| **Descripción:** Como usuario registrado deseo tener la posibilidad de dar inicio a un torneo.    |
++---------------------------------------------------------------------------------------------------+
+| **Criterios de Aceptación:**                                                                      |
+|                                                                                                   |
+|- Añadir un botón en la tabla de la lista de torneos para poder dar inicio a un torneo.            |
+|- Cuando un torneo se encuentra en proceso, el botón deberá permitir cambiar el estado del mismo.  |
++---------------------------------------------------------------------------------------------------+
+| Story points: 3                                                                                   |
++---------------------------------------------------------------------------------------------------+
+
+.. figure:: pictures/backlog/34/torneo-estados.png
+  :scale: 80%
+
+  Estados por los cuales puede pasar un Torneo.
+
+.. figure:: pictures/backlog/34/administrar-estados.png
+  :scale: 80%
+
+  Tabla con la lista de torneos.
+
+.. figure:: pictures/backlog/34/iniciar-confirmar.png
+  :scale: 80%
+
+  Cuadro de dialogo para iniciar un torneo.
+
+.. figure:: pictures/backlog/34/nuevo-estado.png
+  :scale: 80%
+
+  Cuadro de dialogo para cambiar el estado de un torneo iniciado.
 
 .. raw:: PDF
 
   PageBreak
+
++----------------------------------------------------------------------------------------------------------------+
+| #35 Ver una Noticia                                                                                            |
++----------------------------------------------------------------------------------------------------------------+
+| **Descripción:** Como usuario registrado deseo poder ver una noticia en detalle.                               |
++----------------------------------------------------------------------------------------------------------------+
+| **Criterios de Aceptación:**                                                                                   |
+|                                                                                                                |
+|- Desde la lista de mis noticias se deberá poder acceder a cada uno para su visualización en una nueva página.  |
+|- La nueva página mostrará el contenido publicado, como así también los comentarios.                            |
++----------------------------------------------------------------------------------------------------------------+
+| Story points: 3                                                                                                |
++----------------------------------------------------------------------------------------------------------------+
+
+.. figure:: pictures/backlog/35/vista-noticia.png
+  :scale: 80%
+
+  Vista de una noticia.
+
+.. raw:: PDF
+
+  PageBreak
+
++-----------------------------------------------------------------------------------------------+
+| #36 Ocultar una noticia                                                                       |
++-----------------------------------------------------------------------------------------------+
+| **Descripción:** Como usuario registrado deseo poder ocultar una de mis noticias.             |
++-----------------------------------------------------------------------------------------------+
+| **Criterios de Aceptación:**                                                                  |
+|                                                                                               |
+|- Desde la vista de la publicación deseo poder acceder a una opción para ocultar una noticia,  |
+|  de esta manera los usuario ya no tendrán acceso para su visualización.                       |
+|- Luego de ocultar la noticia el usuario es redirigido a la lista de noticias.                 |
+|- Luego de ocultar la noticia debería poder publicarla nuevamente en caso necesario.           |
++-----------------------------------------------------------------------------------------------+
+| Story points: 1                                                                               |
++-----------------------------------------------------------------------------------------------+
+
+.. figure:: pictures/backlog/36/publicar.png
+  :scale: 80%
+
+  Botón para publicar una noticia.
+
+.. figure:: pictures/backlog/36/ocultar-noticia.png
+  :scale: 80%
+
+  Botón para ocultar una noticia.
+
+.. raw:: PDF
+
+  PageBreak
+
++-----------------------------------------------------------------------------------------------------+
+| #37 Censurar comentarios                                                                            |
++-----------------------------------------------------------------------------------------------------+
+| **Descripción:** Como usuario registrado deseo poder censurar comentarios en una noticia publicada. |
++-----------------------------------------------------------------------------------------------------+
+| **Criterios de Aceptación:**                                                                        |
+|                                                                                                     |
+|- A través de un botón quisiera poder censurar un comentario por parte de un usuario.                |
+|- No se necesitará confirmación.                                                                     |
+|- En el futuro se deberá poder agregar un posible motivo de censura,                                 |
+|  pero esto último no es un bloqueante para continuar por el momento.                                |
++-----------------------------------------------------------------------------------------------------+
+| Story points: 1                                                                                     |
++-----------------------------------------------------------------------------------------------------+
+
+.. figure:: pictures/backlog/37/censurar.png
+  :scale: 80%
+
+  Botón para censurar un comentario.
+
+.. figure:: pictures/backlog/37/censurado.png
+  :scale: 80%
+
+  Comentario censurado.
+
+.. raw:: PDF
+
+  PageBreak
+
++------------------------------------------------------------------------------------------------------------------+
+| #38 Pagina perfil de usuario                                                                                     |
++------------------------------------------------------------------------------------------------------------------+
+| **Descripción:** Como usuario registrado quisiera poder visualizar la información básica de otro usuario.        |
++------------------------------------------------------------------------------------------------------------------+
+| **Criterios de Aceptación:**                                                                                     |
+|                                                                                                                  |
+|- Se debe crear una página no pública                                                                             |
+|- Se deberá mostrar un avatar, nombre y apellido, así como también permitirá el contacto directo con el usuario.  |
++------------------------------------------------------------------------------------------------------------------+
+| Story points: 3                                                                                                  |
++------------------------------------------------------------------------------------------------------------------+
+
+.. figure:: pictures/backlog/38/perfil-usuario.png
+  :scale: 80%
+
+  Pantalla de perfil de usuario.
+
+.. raw:: PDF
+
+  PageBreak
+
++---------------------------------------------------------------------------------------------+
+| #39 Ver un resultado de un juego                                                            |
++---------------------------------------------------------------------------------------------+
+| **Descripción:** Como usuario quisiera poder visualizar un partido de la última fecha.      |
++---------------------------------------------------------------------------------------------+
+| **Criterios de Aceptación:**                                                                |
+|                                                                                             |
+|- A traves de la lista de partidos jugados en la última fecha,                               |
+|   el usuario deberá poder clickear una fila para poder observer los detalles de un partido. |
++---------------------------------------------------------------------------------------------+
+| Story points: 1                                                                             |
++---------------------------------------------------------------------------------------------+
+
+.. figure:: pictures/backlog/39/resultado-partido.png
+  :scale: 80%
+
+  Resultado de un Juego.
+
+.. raw:: PDF
+
+  PageBreak
+
+
+
+
