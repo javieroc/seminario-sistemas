@@ -29,7 +29,7 @@ El sprint anterior logró completar 26 SP en total, pero el equipo se siente cap
 5 SP demás por cada miembro, por lo que el budget para historias de usuario pasaría a 41 SP, y además teniendo en cuenta,
 QA y code reviews, el budget quedaría en:
 
-**Historias de usuario:** 41 SP 
+**Historias de usuario:** 46 SP 
 **QA:** 12 SP 
 **Code Reviews:** 12 SP
 **Total:** 65 SP
@@ -192,13 +192,10 @@ Product backlog refinement
 
 En esta reunión se refinaron las siguientes tareas:
 
-1. Registrar / Modificar de torneo
-    a. No estaban claros los campos obligatorios.
-    b. No se sabía a dónde redirigir el usuario.
-
-2. Lista de torneos
-    a. No estaban claro el tipo de paginado.
-    b. No se especificaron los filtros especifficamente.
+1. Historias relacionadas a administración de jugadores.
+2. Generación de fixture
+3. Creación de partidos
+4. Estadísticas
 
 .. raw:: PDF
 
@@ -214,11 +211,14 @@ Sprint Review
 Con la presencia de Matías se procedió con el siguiente calendario de actividades:
 
 1. Explicar a Matias (Stakeholder) lo que se ha realizado y lo que quedó por hacer.
-    - Resultado: Ningún inconveniente, todo pareciera ir de acuerdo a lo planeado, aunque se podrían agregar más story points.
+    - Resultado: Ningún inconveniente, todo pareciera ir de acuerdo a lo planeado.
 2. Discusión de los escenarios positivos y negativos durante el transcurso del sprint.
-    - Resultado: En general muchas tareas dependientes, pero con mucha programación entre pares y ayuda en la mejora de la calidad de código.
+    - Demasiados issues encontrados cada vez que se liberaba código a producción. 
+    - Una opción para resolver el punto anterior podría ser una prueba piloto utilizando programación extrema.
+    - Además como siguiente plan será incrementar el porcentaje de cobertura de tests.
+    - Plantear la posibilidad de introducir la cultura TDD al equipo.
 3. Debate sobre lo que deberá ser entregado para el siguiente sprint.
-    - Para el siguiente sprint se deberá presentar la página de torneos y un vistazo de lo que sería el manejo de equipos.
+    - Para el siguiente sprint se deberá presentar el módulo completo de jugadores y generación de fixture.
 
 
 **Análisis del burndown chart**
