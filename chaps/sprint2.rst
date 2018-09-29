@@ -233,6 +233,12 @@ Con la presencia de Matías se procedió con el siguiente calendario de activida
 3. Debate sobre lo que deberá ser entregado para el siguiente sprint.
     - Para el siguiente sprint se deberá presentar la página de torneos y un vistazo de lo que sería el manejo de equipos.
 
+**Análisis del burndown chart**
+
+En general el equipo ha planeado acertadamente el sprint, sin embargo se puede observar que a mediados del mismo no se finalizaron tareas. Esto último
+se debe a que los miembros debieron rotar funciones: desarrollador, code reviewer y QA. Algo a destacar de este sprint es el hecho que se pudieron completar 
+todas las tareas, aún cuando en medio del mismo se resolvieron issues.
+
 Sprint Retrospective
 ####################
 

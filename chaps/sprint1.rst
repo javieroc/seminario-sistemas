@@ -269,6 +269,14 @@ Con la presencia de Matías se procedió con el siguiente calendario de activida
 3. Debate sobre lo que deberá ser entregado para el siguiente sprint.
     - Para el siguiente sprint se deberá presentar una prototipo que demuestre las bases de la interfaz de usuario, por lo tanto las Ingreso y Registro de usuario deberán ser implementadas.
 
+**Análisis del burndown chart**
+
+El equipo finalizó con las tareas rápidamente, tal vez esto se debió a que la mayoría de las tareas requerían esfuerzo de sólo investigación,
+por lo tanto etapas como code review y quality assurance no fueron necesarias para determinar que una historia de usuario se finalizó. En teoría, 
+si el equipo es capaz de continuar de esta manera indicaría que se están planeando bien las historias para cada sprint, así como también la estimación
+de story points se realiza correctamente. Sin embargo, se deberá permanecer atento a los siguientes sprints, ya que los mismos traerán consigo tareas más complejas 
+las cuales van a requerir de mayor esfuerzo y cooperación entre los miembros del equipo.
+
 Sprint Retrospective
 ####################
 
