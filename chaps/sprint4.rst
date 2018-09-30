@@ -224,20 +224,21 @@ Sprint Retrospective
 +---------+--------------------------------------------------+------+-----------------------------------------+------------------------------------+
 |  Daniel |             Gracias a la división de             |      |    Cuando llegamos al sprint planning   |                                    |
 |         |          tareas entre backend y frontend         |      | deberíamos tener una lista de historias |                                    |
-|         |            ahora podemos tener mejor             |      |   refinadas con story points, al menos  |                                    |
+|         |            ahora podemos tener mejor             |  -   |   refinadas con story points, al menos  |                  -                 |
 |         |          visibilidad en nuestro tablero.         |      |   con un puntaje similar a la velocity  |                                    |
 |         |                                                  |      |        que actualmente manejamos.       |                                    |
 +---------+--------------------------------------------------+------+-----------------------------------------+------------------------------------+
 | Facundo |                  Un buen sprint.                 |      |                                         |  La sección de hosting de archivos |
 |         |            Muchas features terminadas.           |      |                                         |        no está planeada aún,       |
-|         |        Notoria mejora en la comunicación.        |      |                                         | aún no se pueden mostrar imágenes  |
+|         |        Notoria mejora en la comunicación.        |  -   |                                         | aún no se pueden mostrar imágenes  |
 |         |                                                  |      |                                         |     relevantes para el usuario.    |
 +---------+--------------------------------------------------+------+-----------------------------------------+------------------------------------+
-|  Javier | Buena cooperación entre los miembros del equipo. |      |                                         |                                    |
+|  Javier | Buena cooperación entre los miembros del equipo. |  -   |                                         |                                    |
 +---------+--------------------------------------------------+------+-----------------------------------------+------------------------------------+
 
 
 .. raw:: PDF
+
     PageBreak
     
 Repaso del backlog actual

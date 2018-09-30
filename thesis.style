@@ -1,5 +1,5 @@
 styles:
-  table:
+  user-story:
     commands: []
       [VALIGN, [ 0, 0 ], [ -1, -1 ], MIDDLE ]
       [ROWBACKGROUNDS, [0, 0], [-1, -1], [white]]
