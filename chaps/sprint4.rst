@@ -197,6 +197,10 @@ Sprint Review
   :scale: 100%
   :alt: Burndown chart
 
+.. figure:: pictures/sprint4/velocity.png
+  :scale: 150%
+  :alt: Velocity chart
+
 Con la presencia de Matías se procedió con el siguiente calendario de actividades:
 
 1. Explicar a Matias (Stakeholder) lo que se ha realizado y lo que quedó por hacer.
