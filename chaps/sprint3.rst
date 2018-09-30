@@ -44,7 +44,7 @@ Por último el resultado para el segundo sprint será el siguiente:
 Daily meeting 1
 ***************
 
-.. clase:: meeting
+.. class:: meeting
 
 +---------+---------------------------+-----------------------+--------------------------+
 | Miembro | En qué trabajé ayer?      | En qué trabajaré hoy? | Tengo algún impedimento? |
@@ -59,7 +59,7 @@ Daily meeting 1
 Daily meeting 2
 ***************
 
-.. clase:: meeting
+.. class:: meeting
 
 +---------+----------------------+-----------------------+-------------------------------------+
 | Miembro | En qué trabajé ayer? | En qué trabajaré hoy? | Tengo algún impedimento?            |
@@ -74,7 +74,7 @@ Daily meeting 2
 Daily meeting 3
 ***************
 
-.. clase:: meeting
+.. class:: meeting
 
 +---------+----------------------+---------------------------+--------------------------+
 | Miembro | En qué trabajé ayer? | En qué trabajaré hoy?     | Tengo algún impedimento? |
@@ -90,7 +90,7 @@ Daily meeting 3
 Daily meeting 4
 ***************
 
-.. clase:: meeting
+.. class:: meeting
 
 +---------+---------------------------+-----------------------+--------------------------+
 | Miembro | En qué trabajé ayer?      | En qué trabajaré hoy? | Tengo algún impedimento? |
@@ -108,7 +108,7 @@ Daily meeting 4
 Daily meeting 5
 ***************
 
-.. clase:: meeting
+.. class:: meeting
 
 +---------+---------------------------+-----------------------+--------------------------+
 | Miembro | En qué trabajé ayer?      | En qué trabajaré hoy? | Tengo algún impedimento? |
@@ -126,7 +126,7 @@ Daily meeting 5
 Daily meeting 6
 ***************
 
-.. clase:: meeting
+.. class:: meeting
 
 +---------+----------------------+--------------------------+--------------------------+
 | Miembro | En qué trabajé ayer? | En qué trabajaré hoy?    | Tengo algún impedimento? |
@@ -145,7 +145,7 @@ Daily meeting 6
 Daily meeting 7
 ***************
 
-.. clase:: meeting
+.. class:: meeting
 
 +---------+--------------------------+---------------------------+--------------------------+
 | Miembro | En qué trabajé ayer?     | En qué trabajaré hoy?     | Tengo algún impedimento? |
@@ -160,7 +160,7 @@ Daily meeting 7
 Daily meeting 8
 ***************
 
-.. clase:: meeting
+.. class:: meeting
 
 +---------+---------------------------+------------------------------------------+--------------------------+
 | Miembro | En qué trabajé ayer?      | En qué trabajaré hoy?                    | Tengo algún impedimento? |
@@ -175,7 +175,7 @@ Daily meeting 8
 Daily meeting 9
 ***************
 
-.. clase:: meeting
+.. class:: meeting
 
 +---------+------------------------------------------+-------------------------------------------------+--------------------------+
 | Miembro | En qué trabajé ayer?                     | En qué trabajaré hoy?                           | Tengo algún impedimento? |
@@ -192,7 +192,7 @@ Daily meeting 9
 Daily meeting 10
 ****************
 
-.. clase:: meeting
+.. class:: meeting
 
 +---------+------------------------------------------+-------------------------------------------+--------------------------+
 | Miembro | En qué trabajé ayer?                     | En qué trabajaré hoy?                     | Tengo algún impedimento? |
