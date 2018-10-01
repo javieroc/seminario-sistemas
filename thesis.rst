@@ -21,6 +21,7 @@
 .. include:: chaps/theoretical-framework.rst
 .. include:: chaps/feasibility-study.rst
 .. include:: chaps/activity-schedule.rst
+.. include:: chaps/work-environment.rst
 .. include:: chaps/backlog.rst
 .. include:: chaps/sprint1.rst
 .. include:: chaps/sprint2.rst
