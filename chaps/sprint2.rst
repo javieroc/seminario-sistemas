@@ -46,8 +46,7 @@ Por último el resultado para el segundo sprint será el siguiente:
   :scale: 250%
   :alt: Sprint Planning
 
-Daily meeting 1
-***************
+**Daily meeting 1**
 
 .. class:: meeting
 
@@ -69,8 +68,7 @@ Daily meeting 1
 | Javier  | Configuración CircleCI y Github.              | Configuración CircleCI y Github.                                 |             -            |
 +---------+-----------------------------------------------+------------------------------------------------------------------+--------------------------+
 
-Daily meeting 2
-***************
+**Daily meeting 2**
 
 .. class:: meeting
 
@@ -86,8 +84,7 @@ Daily meeting 2
 | Javier  | Configuración CircleCI y Github.                                 | Code review y pruebas sobre la implementación de express y prisma.       |             -            |
 +---------+------------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------+
 
-Daily meeting 3
-***************
+**Daily meeting 3**
 
 .. class:: meeting
 
@@ -104,8 +101,7 @@ Daily meeting 3
 | Javier  | Code review y pruebas sobre la implementación de express y prisma. | Registro de usuario                           |             -            |
 +---------+--------------------------------------------------------------------+-----------------------------------------------+--------------------------+
 
-Daily meeting 4
-***************
+**Daily meeting 4**
 
 .. class:: meeting
 
@@ -119,8 +115,7 @@ Daily meeting 4
 | Javier  | Registro de usuario                           | Ayudar a Daniel con implementación JWT |             -            |
 +---------+-----------------------------------------------+----------------------------------------+--------------------------+
 
-Daily meeting 5
-***************
+**Daily meeting 5**
 
 .. class:: meeting
 
@@ -135,8 +130,7 @@ Daily meeting 5
 | Javier  | Registro de usuario                           | Code review sobre Registro de usuario. |             -            |
 +---------+-----------------------------------------------+----------------------------------------+--------------------------+
 
-Daily meeting 6
-***************
+**Daily meeting 6**
 
 .. class:: meeting
 
@@ -152,8 +146,7 @@ Daily meeting 6
 | Javier  | Code review sobre Registro de usuario. | QA sobre registro de usuario   |             -            |
 +---------+----------------------------------------+--------------------------------+--------------------------+
 
-Daily meeting 7
-***************
+**Daily meeting 7**
 
 .. class:: meeting
 
@@ -169,8 +162,7 @@ Daily meeting 7
 | Javier  | Code review sobre Registro de usuario. | Generar endpoint para login.   |             -            |
 +---------+----------------------------------------+--------------------------------+--------------------------+
 
-Daily meeting 8
-***************
+**Daily meeting 8**
 
 .. class:: meeting
 
@@ -187,8 +179,7 @@ Daily meeting 8
 | Javier  | Generar endpoint para login.   | Code review y QA sobre JWT en FrontEnd |             -            |
 +---------+--------------------------------+----------------------------------------+--------------------------+
 
-Daily meeting 9
-***************
+**Daily meeting 9**
 
 .. class:: meeting
 
@@ -202,8 +193,7 @@ Daily meeting 9
 | Javier  | Code review y QA sobre JWT en FrontEnd | Ayudar a preparar nuevas historias de usuario. |             -            |
 +---------+----------------------------------------+------------------------------------------------+--------------------------+
 
-Daily meeting 10
-****************
+**Daily meeting 10**
 
 .. class:: meeting
 

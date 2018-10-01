@@ -5,9 +5,8 @@
 Backlog
 --------
 
-
-
-
+El product owner junto con los stakeholders escribieron y priorizaron las siguientes historias de usuario.
+Mientras avanzan los sprints el orden de prioridad de las historias puede ir cambiando.
 
 .. class:: backlog
 

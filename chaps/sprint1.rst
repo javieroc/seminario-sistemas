@@ -68,8 +68,7 @@ Por último el resultado para el primer sprint será el siguiente:
   :scale: 250%
   :alt: Sprint Planning
 
-Daily meeting 1
-***************
+**Daily meeting 1**
 
 .. class:: meeting
 
@@ -87,8 +86,7 @@ Daily meeting 1
 
 
 
-Daily meeting 2
-***************
+**Daily meeting 2**
 
 .. class:: meeting
 
@@ -104,8 +102,7 @@ Daily meeting 2
 |         | Investigación implementación de aplicaciones javascript en docker.                 | Configuración nodejs en docker.                  |                          |
 +---------+------------------------------------------------------------------------------------+--------------------------------------------------+--------------------------+
 
-Daily meeting 3
-***************
+**Daily meeting 3**
 
 .. class:: meeting
 
@@ -123,8 +120,7 @@ Daily meeting 3
 +---------+--------------------------------------------------+----------------------------------------------------------+--------------------------+
 
 
-Daily meeting 4
-***************
+**Daily meeting 4**
 
 .. class:: meeting
 
@@ -141,8 +137,7 @@ Daily meeting 4
 |         | Configuración nodejs en docker.                          |                                                              |                          |
 +---------+----------------------------------------------------------+--------------------------------------------------------------+--------------------------+
 
-Daily meeting 5
-***************
+**Daily meeting 5**
 
 .. class:: meeting
 
@@ -159,8 +154,7 @@ Daily meeting 5
 |         | Configurar docker para frontend                              |                                                              |                          |
 +---------+--------------------------------------------------------------+--------------------------------------------------------------+--------------------------+
 
-Daily meeting 6
-***************
+**Daily meeting 6**
 
 .. class:: meeting
 
@@ -177,8 +171,7 @@ Daily meeting 6
 |         | Configurar docker para frontend                              |                                                              |                          |
 +---------+--------------------------------------------------------------+--------------------------------------------------------------+--------------------------+
 
-Daily meeting 7
-***************
+**Daily meeting 7**
 
 .. class:: meeting
 
@@ -192,8 +185,7 @@ Daily meeting 7
 | Javier  | Investigación firebase para almacenamiento de estáticos.     | Investigación Auth0 para graphcool.                          |             -            |
 +---------+--------------------------------------------------------------+--------------------------------------------------------------+--------------------------+
 
-Daily meeting 8
-***************
+**Daily meeting 8**
 
 .. class:: meeting
 
@@ -211,8 +203,7 @@ Daily meeting 8
 | Javier  | Investigación Auth0 para graphcool.                          | Configuración CircleCI y Github.                       |                -                |
 +---------+--------------------------------------------------------------+--------------------------------------------------------+---------------------------------+
 
-Daily meeting 9
-***************
+**Daily meeting 9**
 
 .. class:: meeting
 
@@ -232,8 +223,7 @@ Daily meeting 9
 | Javier  | Configuración CircleCI y Github.                             | Configuración CircleCI y Github.                  |             -            |
 +---------+--------------------------------------------------------------+---------------------------------------------------+--------------------------+
 
-Daily meeting 10
-****************
+**Daily meeting 10**
 
 .. class:: meeting
 

@@ -39,8 +39,7 @@ Por último el resultado para el segundo sprint será el siguiente:
   :scale: 250%
   :alt: Sprint Planning
 
-Daily meeting 1
-***************
+**Daily meeting 1**
 
 .. class:: meeting
 
@@ -55,8 +54,7 @@ Daily meeting 1
 | Javier  | Resolución issues encontrados en frontend | XP con Daniel                         |                          |
 +---------+-------------------------------------------+---------------------------------------+--------------------------+
 
-Daily meeting 2
-***************
+**Daily meeting 2**
 
 .. class:: meeting
 
@@ -70,8 +68,7 @@ Daily meeting 2
 | Javier  | XP con Daniel                         | XP con Facundo y Code reviews                       |                          |
 +---------+---------------------------------------+-----------------------------------------------------+--------------------------+
 
-Daily meeting 3
-***************
+**Daily meeting 3**
 
 .. class:: meeting
 
@@ -86,8 +83,7 @@ Daily meeting 3
 | Javier  | XP con Facundo y Code reviews                       | XP con Daniel y Code reviews         |                          |
 +---------+-----------------------------------------------------+--------------------------------------+--------------------------+
 
-Daily meeting 4
-***************
+**Daily meeting 4**
 
 .. class:: meeting
 
@@ -102,8 +98,7 @@ Daily meeting 4
 | Javier  | XP con Facundo y Code reviews                       | XP con Facundo y Code reviews |                          |
 +---------+-----------------------------------------------------+-------------------------------+--------------------------+
 
-Daily meeting 5
-***************
+**Daily meeting 5**
 
 .. class:: meeting
 
@@ -119,8 +114,7 @@ Daily meeting 5
 | Javier  | XP con Facundo y Code reviews | XP con Daniel         |                          |
 +---------+-------------------------------+-----------------------+--------------------------+
 
-Daily meeting 6
-***************
+**Daily meeting 6**
 
 .. class:: meeting
 
@@ -134,8 +128,7 @@ Daily meeting 6
 | Javier  | Generar fixture FE   | XP con Daniel               |                          |
 +---------+----------------------+-----------------------------+--------------------------+
 
-Daily meeting 7
-***************
+**Daily meeting 7**
 
 .. class:: meeting
 
@@ -149,8 +142,7 @@ Daily meeting 7
 | Javier  | Generar fixture FE   | XP con Daniel              |                          |
 +---------+----------------------+----------------------------+--------------------------+
 
-Daily meeting 8
-***************
+**Daily meeting 8**
 
 .. class:: meeting
 
@@ -164,8 +156,7 @@ Daily meeting 8
 | Javier  | XP con Daniel              | Ver estadísticas equipo BE  |                          |
 +---------+----------------------------+-----------------------------+--------------------------+
 
-Daily meeting 9
-***************
+**Daily meeting 9**
 
 .. class:: meeting
 
@@ -179,8 +170,7 @@ Daily meeting 9
 | Javier  | Ver estadísticas equipo BE  | Ver estadísticas equipo BE  |                          |
 +---------+-----------------------------+-----------------------------+--------------------------+
 
-Daily meeting 10
-****************
+**Daily meeting 10**
 
 .. class:: meeting
 

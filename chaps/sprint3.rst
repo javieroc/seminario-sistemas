@@ -41,8 +41,7 @@ Por último el resultado para el segundo sprint será el siguiente:
   :scale: 250%
   :alt: Sprint Planning
 
-Daily meeting 1
-***************
+**Daily meeting 1**
 
 .. class:: meeting
 
@@ -56,8 +55,7 @@ Daily meeting 1
 | Javier  | Ayudar a testear login    | Notificaciones        |             -            |
 +---------+---------------------------+-----------------------+--------------------------+
 
-Daily meeting 2
-***************
+**Daily meeting 2**
 
 .. class:: meeting
 
@@ -71,8 +69,7 @@ Daily meeting 2
 | Javier  | Notificaciones       | Routing               |                  -                  |
 +---------+----------------------+-----------------------+-------------------------------------+
 
-Daily meeting 3
-***************
+**Daily meeting 3**
 
 .. class:: meeting
 
@@ -87,8 +84,7 @@ Daily meeting 3
 | Javier  | Routing              | Frontend lista de torneos |             -            |
 +---------+----------------------+---------------------------+--------------------------+
 
-Daily meeting 4
-***************
+**Daily meeting 4**
 
 .. class:: meeting
 
@@ -105,8 +101,7 @@ Daily meeting 4
 |         |                           | Code review FrontEnd  |                          |
 +---------+---------------------------+-----------------------+--------------------------+
 
-Daily meeting 5
-***************
+**Daily meeting 5**
 
 .. class:: meeting
 
@@ -123,8 +118,7 @@ Daily meeting 5
 |         |                           | Code review FrontEnd  |                          |
 +---------+---------------------------+-----------------------+--------------------------+
 
-Daily meeting 6
-***************
+**Daily meeting 6**
 
 .. class:: meeting
 
@@ -142,8 +136,7 @@ Daily meeting 6
 |         | Code review FrontEnd |                          |                          |
 +---------+----------------------+--------------------------+--------------------------+
 
-Daily meeting 7
-***************
+**Daily meeting 7**
 
 .. class:: meeting
 
@@ -157,8 +150,7 @@ Daily meeting 7
 | Javier  | Registro de equipo       | Registro de equipo        |             -            |
 +---------+--------------------------+---------------------------+--------------------------+
 
-Daily meeting 8
-***************
+**Daily meeting 8**
 
 .. class:: meeting
 
@@ -172,8 +164,7 @@ Daily meeting 8
 | Javier  | Registro de equipo        | Eliminar un equipo frontend              |             -            |
 +---------+---------------------------+------------------------------------------+--------------------------+
 
-Daily meeting 9
-***************
+**Daily meeting 9**
 
 .. class:: meeting
 
@@ -189,8 +180,7 @@ Daily meeting 9
 | Javier  | Eliminar un equipo frontend              | Resolución issues                               |             -            |
 +---------+------------------------------------------+-------------------------------------------------+--------------------------+
 
-Daily meeting 10
-****************
+**Daily meeting 10**
 
 .. class:: meeting
 
