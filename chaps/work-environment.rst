@@ -1,6 +1,70 @@
 Entorno de Trabajo
 ------------------
 
+Gitflow
+#######
+
+Todos los miembros del equipo cuentan con un conocimiento avanzado del uso de git, este punto es
+a nuestra forma de ver el desarrollo, fundamental para que el proyecto tenga éxito.
+
+Con gitflow nos referimos al flujo de trabajo que el equipo debe seguir al utilizar git, es decir que
+tipos de ramas se crearán y como estas se fusionaran entre sí. El flujo de trabajo con git más popular
+fue el diseñado y publicado por Vincent Driessen[1] y es el que seguiremos en este proyecto.
+
+**Como funciona**
+
+En lugar de tener una sola rama *master*, este flujo de trabajo propone tener dos ramas (branches) para
+guardar el historial del proyecto. La rama *master* que contendrá el historial oficial de *releases*
+y la rama *develop* que nos servirá como rama de integración para las nuevas *features*. será
+conveniente agregar una etiqueta (tag) a todos los cambios (commits) que se hagan en la rama
+master con un número de versión.
+
+.. figure:: pictures/entorno/git1.png
+  :scale: 80%
+
+  Gitflow: Rama master y develop.
+
+Cada nueva *feature* debe tener su propia rama que puede ser enviada al repositorio central para
+permitir el trabajo en equipo o simplemente de backup. Cada nueva rama del tipo *feature* debe crearse
+con *develop* como rama padre. Cuando el trabajo en la rama *feature* termina esta debe volver a fusionarse con
+*develop*. Las ramas de tipo *feature* no deben interactuar directamente con *master*.
+
+.. figure:: pictures/entorno/git1.png
+  :scale: 80%
+
+  Gitflow: Ramas del tipo features.
+
+Se debe tratar que, siempre que creamos una nueva rama *feature*, crearla a partir de la versión más actualizada de *develop*
+y en caso de que el trabajo en la rama *feature* se extienda por demasiado tiempo, actualizarse con la rama padre
+antes de crear la solicitud de *merge* (Pull Request).
+
+Una vez que la rama *develop* tiene una cantidad suficiente de nuevas características para lanzar una nueva versión
+de la aplicación, creamos una rama *release* desde *develop*. A partir de este punto no se pueden agregar nuevas *features*
+a la rama *release* creada. Esta rama será probada y se podrán agregar correcciones de bugs en caso de ser necesario. Una vez
+que las pruebas finalicen la rama *release* estará lista para fusionarse con *master* y agregar una etiqueta con el número
+de versión.
+
+Durante el tiempo transcurrido, la rama *develop* puede haber avanzado con respecto a la rama *release*, por lo tanto
+también debemos fusionar la rama *release* de nuevo con su padre *develop*. Esta es una de las ventaja que este flujo de trabajo
+ofrece, mientras parte del equipo trabaja en lanzar una nueva versión de la aplicación, el resto del equipo puede seguir
+trabajando y agregando nuevas *features* a la rama *develop* para la siguiente *release*.
+
+.. figure:: pictures/entorno/git1.png
+  :scale: 80%
+
+  Gitflow: Ramas del tipo releases.
+
+
+Por último tenemos las ramas de tipo *hotfix* que serán utilizadas para agregar parches y correcciones de bugs que
+seán urgentes en releases en producción. Este tipo de ramas son las únicas que son creadas a partir de master en lugar
+de develop. Tan pronto el fix sea completado se deberá fusionar con master y develop, para que estas ramas se mantengan
+actualizadas, y se deberá actualizar el número de versión con una etiqueta.
+
+.. figure:: pictures/entorno/git1.png
+  :scale: 80%
+
+  Gitflow: Ramas del tipo hotfix.
+
 Circle CI y Heroku
 ###################
 
