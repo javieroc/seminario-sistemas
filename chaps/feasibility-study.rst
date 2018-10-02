@@ -137,6 +137,7 @@ Total después del tercer Mes: $51720
 +--------+---------+----------+----------+-----------------+
 | Mes 8  | $24320  | $137920  | $113600  | $234000         |
 +--------+---------+----------+----------+-----------------+
+
 Tabla de Costos, Beneficios y Ganancias Aproximadas.
 
 .. figure:: pictures/chart.jpg

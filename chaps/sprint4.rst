@@ -233,23 +233,22 @@ Con la presencia de Matías se procedió con el siguiente calendario de activida
 Sprint Retrospective
 ####################
 
-+---------+--------------------------------------------------+------+-----------------------------------------+------------------------------------+
-| Miembro |                       Bueno                      | Malo |                A mejorar                |            Impedimentos            |
-+---------+--------------------------------------------------+------+-----------------------------------------+------------------------------------+
-|  Daniel |             Gracias a la división de             |      |    Cuando llegamos al sprint planning   |                                    |
-|         |          tareas entre backend y frontend         |      | deberíamos tener una lista de historias |                                    |
-|         |            ahora podemos tener mejor             |  -   |   refinadas con story points, al menos  |                  -                 |
-|         |          visibilidad en nuestro tablero.         |      |   con un puntaje similar a la velocity  |                                    |
-|         |                                                  |      |        que actualmente manejamos.       |                                    |
-+---------+--------------------------------------------------+------+-----------------------------------------+------------------------------------+
-| Facundo |                  Un buen sprint.                 |      |                                         |  La sección de hosting de archivos |
-|         |            Muchas features terminadas.           |      |                                         |        no está planeada aún,       |
-|         |        Notoria mejora en la comunicación.        |  -   |                                         | aún no se pueden mostrar imágenes  |
-|         |                                                  |      |                                         |     relevantes para el usuario.    |
-+---------+--------------------------------------------------+------+-----------------------------------------+------------------------------------+
-|  Javier | Buena cooperación entre los miembros del equipo. |  -   |                                         |                                    |
-+---------+--------------------------------------------------+------+-----------------------------------------+------------------------------------+
+.. class:: retro
 
++---------+--------------------------------------------------------------------------------+------+------------------------------------------------------------+----------------------------------------------+
+| Miembro | Bueno                                                                          | Malo | A mejorar                                                  | Impedimentos                                 |
++---------+--------------------------------------------------------------------------------+------+------------------------------------------------------------+----------------------------------------------+
+| Daniel  | Gracias a la división de tareas entre backend                                  | -    | Cuando llegamos al sprint planning deberíamos tener        | -                                            |
+|         | y frontend ahoro tenemos mejor visibilidad en                                  |      | una lista de historias refinadas con story points, al      |                                              |
+|         | nuestro tablero.                                                               |      | menos con un puntaje similar a la velocity que actualmente |                                              |
+|         |                                                                                |      | manejamos.                                                 |                                              |
++---------+--------------------------------------------------------------------------------+------+------------------------------------------------------------+----------------------------------------------+
+| Facundo | Un buen sprint. Muchas features terminadas. Notoria mejora en la comunicación. | -    | -                                                          | La sección de hosting de archivos            |
+|         |                                                                                |      |                                                            | no está planeada aún, de momento no podemos  |
+|         |                                                                                |      |                                                            | mostrar imágenes relevantes para el usuario. |
++---------+--------------------------------------------------------------------------------+------+------------------------------------------------------------+----------------------------------------------+
+| Javier  | Buena cooperación entre los miembros del equipo.                               | -    | -                                                          | -                                            |
++---------+--------------------------------------------------------------------------------+------+------------------------------------------------------------+----------------------------------------------+
 
 .. raw:: PDF
 

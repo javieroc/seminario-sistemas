@@ -294,16 +294,16 @@ las cuales van a requerir de mayor esfuerzo y cooperación entre los miembros de
 Sprint Retrospective
 ####################
 
-.. class: retro
+.. class:: retro
 
 +---------+------------------------+----------------------------------+--------------------------------------------------------------------------------------------+--------------+
-| Miembro |          Bueno         |               Malo               |                                          A mejorar                                         | Impedimentos |
+| Miembro | Bueno                  | Malo                             | A mejorar                                                                                  | Impedimentos |
 +---------+------------------------+----------------------------------+--------------------------------------------------------------------------------------------+--------------+
-|  Daniel | En general buen sprint |                                  |                                                                                            |              |
+| Daniel  | En general buen sprint | -                                | -                                                                                          | -            |
 +---------+------------------------+----------------------------------+--------------------------------------------------------------------------------------------+--------------+
-| Facundo |       Sprint sano      | Ninguna UI para el usuario final | Comunicación entre los miebros del equipo durante el refinamiento de historias de usuario. |              |
+| Facundo | Sprint sano            | Ninguna UI para el usuario final | Comunicación entre los miebros del equipo durante el refinamiento de historias de usuario. | -            |
 +---------+------------------------+----------------------------------+--------------------------------------------------------------------------------------------+--------------+
-|  Javier |   Docker configurado   |                                  |                                                                                            |              |
+| Javier  | Docker configurado     | -                                | -                                                                                          | -            |
 +---------+------------------------+----------------------------------+--------------------------------------------------------------------------------------------+--------------+
 
 .. raw:: PDF

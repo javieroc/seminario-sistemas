@@ -28,6 +28,16 @@ styles:
       [ALIGN, [ 0, 0 ], [ -1, -1 ], LEFT ]
       [FONTSIZE, [ 0, 0 ], [ -1, -1 ], 8 ]
 
+  retro:
+    colWidths: [1.8cm, 4cm, 4cm, 4cm, 4cm]
+    commands: []
+      [VALIGN, [ 0, 0 ], [ -1, -1 ], MIDDLE ]
+      [ROWBACKGROUNDS, [0, 0], [-1, -1], [white]]
+      [LINEBELOW, [0, 0], [-1, 0], 0.5, black]
+      [BOTTOMPADDING, [0, 1], [-1, -1], 5]
+      [TOPPADDING, [0, 1], [-1, -1], 5]
+      [ALIGN, [ 0, 0 ], [ -1, -1 ], LEFT ]
+      [FONTSIZE, [ 0, 0 ], [ -1, -1 ], 6 ]
 
   table-heading:
     parent : heading
