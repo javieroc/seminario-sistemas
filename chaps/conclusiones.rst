@@ -112,4 +112,3 @@ como para la mejora e implementación de tests automatizados. Esto, significará
 para el proyecto, pero a su vez significará una mejora considerable en la liberación de features,
 incrementando el rendimiento del equipo, debido a que los integrantes podrán liberar features con 
 mayor confiabilidad. 
-
