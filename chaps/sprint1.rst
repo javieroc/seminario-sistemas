@@ -68,6 +68,10 @@ Por último el resultado para el primer sprint será el siguiente:
   :scale: 250%
   :alt: Sprint Planning
 
+.. raw:: PDF
+
+    PageBreak
+    
 **Daily meeting 1**
 
 .. class:: meeting

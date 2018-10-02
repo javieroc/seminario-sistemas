@@ -112,19 +112,20 @@ Mientras avanzan los sprints el orden de prioridad de las historias puede ir cam
 +------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/1/exito.png
-  :scale: 80%
+  :scale: 100%
 
   Registro exitoso.
 
 .. figure:: pictures/backlog/1/step-1.png
-  :scale: 80%
+  :scale: 100%
+
+  Billing: elegir plan.
+
+.. figure:: pictures/backlog/1/step-2.png
+  :scale: 100%
 
   Formulario de registro.
 
-.. figure:: pictures/backlog/1/step-2.png
-  :scale: 80%
-
-  Billing: elegir plan.
 
 .. raw:: PDF
 
@@ -149,7 +150,7 @@ Mientras avanzan los sprints el orden de prioridad de las historias puede ir cam
 +----------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/2/login.png
-  :scale: 80%
+  :scale: 100%
 
   Formulario de ingreso al sistema.
 
@@ -177,7 +178,7 @@ Mientras avanzan los sprints el orden de prioridad de las historias puede ir cam
 +-----------------------------------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/3/agregar.png
-  :scale: 80%
+  :scale: 100%
 
   Formulario para crear un nuevo torneo.
 
@@ -205,17 +206,17 @@ Mientras avanzan los sprints el orden de prioridad de las historias puede ir cam
 +-------------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/4/lista.png
-  :scale: 80%
+  :scale: 100%
 
   Lista de torneos.
 
 .. figure:: pictures/backlog/4/datos-ok.png
-  :scale: 80%
+  :scale: 100%
 
   Se agrego exitosamente un nuevo torneo.
 
 .. figure:: pictures/backlog/4/datos-error.png
-  :scale: 80%
+  :scale: 100%
 
   No se pudo agregar un nuevo torneo
 
