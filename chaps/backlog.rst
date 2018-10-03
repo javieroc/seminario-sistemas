@@ -92,6 +92,11 @@ Mientras avanzan los sprints el orden de prioridad de las historias puede ir cam
 | #39 | Ver un resultado de un juego                |
 +-----+---------------------------------------------+
 
+Tabla con todos los backlog items.
+
+
+A continuación se detallan algunas historias de usuario, el resto de historias se encuntran en el anexo.
+
 .. class:: user-story
 
 +------------------------------------------------------------------------------+
@@ -112,25 +117,23 @@ Mientras avanzan los sprints el orden de prioridad de las historias puede ir cam
 +------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/1/exito.png
-  :scale: 100%
+  :scale: 120%
 
   Registro exitoso.
 
 .. figure:: pictures/backlog/1/step-1.png
-  :scale: 100%
+  :scale: 120%
 
   Billing: elegir plan.
 
 .. figure:: pictures/backlog/1/step-2.png
-  :scale: 100%
+  :scale: 120%
 
   Formulario de registro.
-
 
 .. raw:: PDF
 
   PageBreak
-
 
 .. class:: user-story
 
@@ -150,14 +153,13 @@ Mientras avanzan los sprints el orden de prioridad de las historias puede ir cam
 +----------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/2/login.png
-  :scale: 100%
+  :scale: 120%
 
   Formulario de ingreso al sistema.
 
 .. raw:: PDF
 
   PageBreak
-
 
 .. class:: user-story
 
@@ -178,14 +180,13 @@ Mientras avanzan los sprints el orden de prioridad de las historias puede ir cam
 +-----------------------------------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/3/agregar.png
-  :scale: 100%
+  :scale: 120%
 
   Formulario para crear un nuevo torneo.
 
 .. raw:: PDF
 
   PageBreak
-
 
 .. class:: user-story
 
@@ -206,17 +207,17 @@ Mientras avanzan los sprints el orden de prioridad de las historias puede ir cam
 +-------------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/4/lista.png
-  :scale: 100%
+  :scale: 120%
 
   Lista de torneos.
 
 .. figure:: pictures/backlog/4/datos-ok.png
-  :scale: 100%
+  :scale: 120%
 
   Se agrego exitosamente un nuevo torneo.
 
 .. figure:: pictures/backlog/4/datos-error.png
-  :scale: 100%
+  :scale: 120%
 
   No se pudo agregar un nuevo torneo
 

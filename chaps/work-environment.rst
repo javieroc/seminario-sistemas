@@ -20,7 +20,7 @@ conveniente agregar una etiqueta (tag) a todos los cambios (commits) que se haga
 master con un número de versión.
 
 .. figure:: pictures/entorno/git1.png
-  :scale: 150%
+  :scale: 170%
 
   Gitflow: Rama master y develop.
 
@@ -29,8 +29,8 @@ permitir el trabajo en equipo o simplemente de backup. Cada nueva rama del tipo 
 con *develop* como rama padre. Cuando el trabajo en la rama *feature* termina esta debe volver a fusionarse con
 *develop*. Las ramas de tipo *feature* no deben interactuar directamente con *master*.
 
-.. figure:: pictures/entorno/git1.png
-  :scale: 150%
+.. figure:: pictures/entorno/git2.png
+  :scale: 170%
 
   Gitflow: Ramas del tipo features.
 
@@ -49,8 +49,8 @@ también debemos fusionar la rama *release* de nuevo con su padre *develop*. Est
 ofrece, mientras parte del equipo trabaja en lanzar una nueva versión de la aplicación, el resto del equipo puede seguir
 trabajando y agregando nuevas *features* a la rama *develop* para la siguiente *release*.
 
-.. figure:: pictures/entorno/git1.png
-  :scale: 150%
+.. figure:: pictures/entorno/git3.png
+  :scale: 170%
 
   Gitflow: Ramas del tipo releases.
 
@@ -60,8 +60,8 @@ seán urgentes en releases en producción. Este tipo de ramas son las únicas qu
 de develop. Tan pronto el fix sea completado se deberá fusionar con master y develop, para que estas ramas se mantengan
 actualizadas, y se deberá actualizar el número de versión con una etiqueta.
 
-.. figure:: pictures/entorno/git1.png
-  :scale: 150%
+.. figure:: pictures/entorno/git4.png
+  :scale: 170%
 
   Gitflow: Ramas del tipo hotfix.
 

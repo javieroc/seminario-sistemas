@@ -1,7 +1,7 @@
 .. raw:: PDF
 
     PageBreak
-    
+
 Anexo
 -----
 
@@ -23,7 +23,7 @@ Anexo
 +--------------------------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/5/editar.png
-  :scale: 100%
+  :scale: 120%
 
   Formulario para editar torneo
 
@@ -49,7 +49,7 @@ Anexo
 +----------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/6/eliminar.png
-  :scale: 100%
+  :scale: 120%
 
   Dialogo de confirmación para eliminar un torneo.
 
@@ -77,17 +77,17 @@ Anexo
 
 
 .. figure:: pictures/backlog/7/lista-equipos.png
-  :scale: 100%
+  :scale: 120%
 
   Lista de equipos para un torneo.
 
 .. figure:: pictures/backlog/7/datos-ok.png
-  :scale: 100%
+  :scale: 120%
 
   Equipo agregado exitosamente.
 
 .. figure:: pictures/backlog/7/datos-error.png
-  :scale: 100%
+  :scale: 120%
 
   Error al agregar un nuevo equipo.
 
@@ -113,7 +113,7 @@ Anexo
 +---------------------------------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/8/agregar.png
-  :scale: 100%
+  :scale: 120%
 
   Error al agregar un nuevo equipo.
 
@@ -137,7 +137,7 @@ Anexo
 +-------------------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/9/editar.png
-  :scale: 100%
+  :scale: 120%
 
   Formulario para editar un equipo.
 
@@ -161,7 +161,7 @@ Anexo
 +------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/10/eliminar.png
-  :scale: 100%
+  :scale: 120%
 
   Dialogo para confirmar la eliminación de un equipo.
 
@@ -189,7 +189,7 @@ Anexo
 +------------------------------------------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/11/agregar.png
-  :scale: 100%
+  :scale: 120%
 
   Formulario dinámico para agregar jugadores a un equipo.
 
@@ -215,7 +215,7 @@ Anexo
 +--------------------------------------------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/12/editar.png
-  :scale: 100%
+  :scale: 120%
 
   Formulario para editar un jugador.
 
@@ -239,7 +239,7 @@ Anexo
 +------------------------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/13/eliminar.png
-  :scale: 100%
+  :scale: 120%
 
   Dialogo de confirmación para eliminar un jugador.
 
@@ -325,17 +325,17 @@ Anexo
 +------------------------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/18/vista-previa.png
-  :scale: 100%
+  :scale: 120%
 
   Fixture vista previa.
 
 .. figure:: pictures/backlog/18/agregar-generacion-fixture.png
-  :scale: 100%
+  :scale: 120%
 
   Boton para generar fixture.
 
 .. figure:: pictures/backlog/18/confirmacion.png
-  :scale: 100%
+  :scale: 120%
 
   Dialogo para confirmar generación de fixture.
 
@@ -382,12 +382,12 @@ Anexo
 +---------------------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/20/estadisticas-jugadores.png
-  :scale: 100%
+  :scale: 120%
 
   Tabla editable para estadísticas de jugadores.
 
 .. figure:: pictures/backlog/20/estadisticas-equipos-lista.png
-  :scale: 100%
+  :scale: 120%
 
   Lista de equipos, boton para ver estadísticas.
 
@@ -417,12 +417,12 @@ Anexo
 +----------------------------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/21/estadisticas-jugador.png
-  :scale: 100%
+  :scale: 120%
 
   Estadística del Jugador.
 
 .. figure:: pictures/backlog/21/estadisticas-jugador-lista.png
-  :scale: 100%
+  :scale: 120%
 
   Lista de Jugadores.
 
@@ -448,7 +448,7 @@ Anexo
 +-----------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/22/partido-vista-con-comentarios.png
-  :scale: 100%
+  :scale: 120%
 
   Agregar comentarios a un partido.
 
@@ -476,32 +476,32 @@ Anexo
 +--------------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/23/menu-usuario.png
-  :scale: 100%
+  :scale: 120%
 
   Menu de Usuario.
 
 .. figure:: pictures/backlog/23/mensaje-vista.png
-  :scale: 100%
+  :scale: 120%
 
   Vista de un Mensaje recibido.
 
 .. figure:: pictures/backlog/23/ventana-chat.png
-  :scale: 100%
+  :scale: 120%
 
   Cuadro de dialogo para enviar un nuevo mensaje.
 
 .. figure:: pictures/backlog/23/notificacion-nuevo-mensaje.png
-  :scale: 100%
+  :scale: 120%
 
   Notificación de un nuevo mensaje.
 
 .. figure:: pictures/backlog/23/bandeja-entrada-recibidos.png
-  :scale: 100%
+  :scale: 120%
 
   Bandeja de entrada - Mensajes recibidos.
 
 .. figure:: pictures/backlog/23/bandeja-entrada-enviados.png
-  :scale: 100%
+  :scale: 120%
 
   Bandeja de entrada - Mensajes enviados.
 
@@ -558,7 +558,7 @@ Anexo
 +-----------------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/25/exportar-a-excel.png
-  :scale: 100%
+  :scale: 120%
 
   Exportar Fixture en un archivo excel.
 
@@ -585,7 +585,7 @@ Anexo
 +-------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/27/mis-noticias.png
-  :scale: 100%
+  :scale: 120%
 
   Sección de Noticias.
 
@@ -614,22 +614,22 @@ Anexo
 
 
 .. figure:: pictures/backlog/28/importar-equipo-1.png
-  :scale: 100%
+  :scale: 120%
 
   Botón para importar equipo.
 
 .. figure:: pictures/backlog/28/importar-equipo-2.png
-  :scale: 100%
+  :scale: 120%
 
   Seleccionar archivo desde los archivos de la computadora del usuario.
 
 .. figure:: pictures/backlog/28/importar-equipo-3.png
-  :scale: 100%
+  :scale: 120%
 
   Procesando datos.
 
 .. figure:: pictures/backlog/28/importar-equipo-4.png
-  :scale: 100%
+  :scale: 120%
 
   Proceso de carga de datos finalizado.
 
@@ -655,7 +655,7 @@ Anexo
 +---------------------------------------------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/29/resultados-ultima-fecha.png
-  :scale: 100%
+  :scale: 120%
 
   Lista de resultados de todo el torneo.
 
@@ -682,7 +682,7 @@ Anexo
 +------------------------------------------------------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/30/add.png
-  :scale: 100%
+  :scale: 120%
 
   Crear una nueva noticia.
 
@@ -709,7 +709,7 @@ Anexo
 +----------------------------------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/31/comentario-noticia.png
-  :scale: 100%
+  :scale: 120%
 
   Agregar comentarios y votar una notica.
 
@@ -734,7 +734,7 @@ Anexo
 +------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/32/torneos-publico.png
-  :scale: 100%
+  :scale: 120%
 
   Lista de torneos públicos.
 
@@ -767,37 +767,37 @@ Anexo
 +-------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/33/contactar-capitan.png
-  :scale: 100%
+  :scale: 120%
 
   Cuadro de dialogo para enviar notificacion al capitán de un equipo.
 
 .. figure:: pictures/backlog/33/estadisticas-torneo.png
-  :scale: 100%
+  :scale: 120%
 
   Tabla general del torneo.
 
 .. figure:: pictures/backlog/33/informacion-torneo.png
-  :scale: 100%
+  :scale: 120%
 
   Pestaña con la información del torneo.
 
 .. figure:: pictures/backlog/33/lista-de-equipos.png
-  :scale: 100%
+  :scale: 120%
 
   Lista de equipos participantes del torneo.
 
 .. figure:: pictures/backlog/33/registro-instantaneo.png
-  :scale: 100%
+  :scale: 120%
 
   Formulario para registrar un nuevo equipo al torneo.
 
 .. figure:: pictures/backlog/33/resumen-fecha.png
-  :scale: 100%
+  :scale: 120%
 
   Resultados de la última fecha jugada.
 
 .. figure:: pictures/backlog/33/seccion-fotos.png
-  :scale: 100%
+  :scale: 120%
 
   Fotos del torneo.
 
@@ -822,22 +822,22 @@ Anexo
 +---------------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/34/torneo-estados.png
-  :scale: 100%
+  :scale: 120%
 
   Estados por los cuales puede pasar un Torneo.
 
 .. figure:: pictures/backlog/34/administrar-estados.png
-  :scale: 100%
+  :scale: 120%
 
   Tabla con la lista de torneos.
 
 .. figure:: pictures/backlog/34/iniciar-confirmar.png
-  :scale: 100%
+  :scale: 120%
 
   Cuadro de dialogo para iniciar un torneo.
 
 .. figure:: pictures/backlog/34/nuevo-estado.png
-  :scale: 100%
+  :scale: 120%
 
   Cuadro de dialogo para cambiar el estado de un torneo iniciado.
 
@@ -862,7 +862,7 @@ Anexo
 +----------------------------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/35/vista-noticia.png
-  :scale: 100%
+  :scale: 120%
 
   Vista de una noticia.
 
@@ -889,12 +889,12 @@ Anexo
 +-----------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/36/publicar.png
-  :scale: 100%
+  :scale: 120%
 
   Botón para publicar una noticia.
 
 .. figure:: pictures/backlog/36/ocultar-noticia.png
-  :scale: 100%
+  :scale: 120%
 
   Botón para ocultar una noticia.
 
@@ -921,12 +921,12 @@ Anexo
 +-----------------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/37/censurar.png
-  :scale: 100%
+  :scale: 120%
 
   Botón para censurar un comentario.
 
 .. figure:: pictures/backlog/37/censurado.png
-  :scale: 100%
+  :scale: 120%
 
   Comentario censurado.
 
@@ -951,7 +951,7 @@ Anexo
 +------------------------------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/38/perfil-usuario.png
-  :scale: 100%
+  :scale: 120%
 
   Pantalla de perfil de usuario.
 
@@ -976,7 +976,7 @@ Anexo
 +---------------------------------------------------------------------------------------------+
 
 .. figure:: pictures/backlog/39/resultado-partido.png
-  :scale: 100%
+  :scale: 120%
 
   Resultado de un Juego.
 
