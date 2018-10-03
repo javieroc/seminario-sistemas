@@ -20,11 +20,26 @@ A continuación se presentará el Diagrama de Actividades y Gantt
    PageBreak
 
 
-.. figure:: pictures/activities.jpeg
+.. figure:: pictures/gant1.png
   :scale: 29%
   :alt: cascada
 
-  Figura 5: Diagrama de Gantt.
+  Figura 5: Diagrama de Gantt 1.
+
+.. raw:: PDF
+
+    PageBreak
+
+.. raw:: PDF
+
+   PageBreak
+
+
+.. figure:: pictures/gant2.png
+  :scale: 29%
+  :alt: cascada
+
+  Figura 5: Diagrama de Gantt2.
 
 .. raw:: PDF
 
