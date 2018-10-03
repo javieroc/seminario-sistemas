@@ -24,7 +24,7 @@ A continuación se presentará el Diagrama de Actividades y Gantt
   :scale: 29%
   :alt: cascada
 
-  Figura 5: Diagrama de Gantt.
+  Figura 6: Diagrama de Gantt.
 
 .. raw:: PDF
 

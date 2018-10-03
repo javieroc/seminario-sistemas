@@ -22,7 +22,7 @@ master con un número de versión.
 .. figure:: pictures/entorno/git1.png
   :scale: 170%
 
-  Gitflow: Rama master y develop.
+  Figura 7: Gitflow, Rama master y develop.
 
 Cada nueva *feature* debe tener su propia rama que puede ser enviada al repositorio central para
 permitir el trabajo en equipo o simplemente de backup. Cada nueva rama del tipo *feature* debe crearse
@@ -32,7 +32,7 @@ con *develop* como rama padre. Cuando el trabajo en la rama *feature* termina es
 .. figure:: pictures/entorno/git2.png
   :scale: 170%
 
-  Gitflow: Ramas del tipo features.
+  Figura 8: Gitflow, Ramas del tipo features.
 
 Se debe tratar que, siempre que creamos una nueva rama *feature*, crearla a partir de la versión más actualizada de *develop*
 y en caso de que el trabajo en la rama *feature* se extienda por demasiado tiempo, actualizarse con la rama padre
@@ -52,7 +52,7 @@ trabajando y agregando nuevas *features* a la rama *develop* para la siguiente *
 .. figure:: pictures/entorno/git3.png
   :scale: 170%
 
-  Gitflow: Ramas del tipo releases.
+  Figura 9: Gitflow, Ramas del tipo releases.
 
 
 Por último tenemos las ramas de tipo *hotfix* que serán utilizadas para agregar parches y correcciones de bugs que
@@ -63,7 +63,7 @@ actualizadas, y se deberá actualizar el número de versión con una etiqueta.
 .. figure:: pictures/entorno/git4.png
   :scale: 170%
 
-  Gitflow: Ramas del tipo hotfix.
+  Figura 10: Gitflow, Ramas del tipo hotfix.
 
 Circle CI y Heroku
 ###################
@@ -86,6 +86,8 @@ que se ejecutaran para el chequeo de código, en nuestro caso tenemos en cuenta
 .. figure:: pictures/entorno/circleci-heroku.png
   :scale: 80%
   :alt: Circle CI y Heroku
+
+  Figura 11: Integración continua y deploy continuo.
 
 1- Nuestro repositorio está hosteado en github.
 
@@ -118,6 +120,8 @@ se puede integrar fácilmente con un backend personalizado.
 .. figure:: pictures/entorno/oauth.png
   :scale: 80%
   :alt: Circle CI y Heroku
+
+  Figura 12: Flujo de autenticación.
 
 1. El front configura la interfaz para que el usuario pueda ingresar al sistema, y
 es el encargado de conseguir el ID de autenticación desde Firebase.
@@ -158,13 +162,17 @@ El proceso es el siguiente:
 
 .. figure:: pictures/entorno/poker1.png
   :scale: 80%
-  :alt: Selección de items 
+  :alt: Selección de items
+
+  Figura 13: Planning poker tool.
 
 2. El product owner inicia el proceso de votación
 
 .. figure:: pictures/entorno/poker2.png
   :scale: 80%
-  :alt: Inicio de votación 
+  :alt: Inicio de votación
+
+  Figura 14: Planning poker tool.
 
 3. Los miembros del equipo proceden a votar 
 
@@ -172,10 +180,14 @@ El proceso es el siguiente:
   :scale: 80%
   :alt: votación
 
+  Figura 15: Planning poker tool.
+
 4. Se visualizan los resultados 
 
 .. figure:: pictures/entorno/poker4.png
   :scale: 80%
   :alt: Circle CI y Heroku
+
+  Figura 16: Planning poker tool.
 
 Esta herramiento resulta muy útil, ya que se puede tomar fácilmente estadísticas del tiempo utilizado para votar cada una de las tareas.

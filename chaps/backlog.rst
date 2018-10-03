@@ -119,17 +119,17 @@ A continuación se detallan algunas historias de usuario, el resto de historias 
 .. figure:: pictures/backlog/1/exito.png
   :scale: 120%
 
-  Registro exitoso.
+  Figura 17: Registro exitoso.
 
 .. figure:: pictures/backlog/1/step-1.png
   :scale: 120%
 
-  Billing: elegir plan.
+  Figura 18: Billing, elegir plan.
 
 .. figure:: pictures/backlog/1/step-2.png
   :scale: 120%
 
-  Formulario de registro.
+  Figura 19: Formulario de registro.
 
 .. raw:: PDF
 
@@ -155,7 +155,7 @@ A continuación se detallan algunas historias de usuario, el resto de historias 
 .. figure:: pictures/backlog/2/login.png
   :scale: 120%
 
-  Formulario de ingreso al sistema.
+  Figura 20: Formulario de ingreso al sistema.
 
 .. raw:: PDF
 
@@ -182,7 +182,7 @@ A continuación se detallan algunas historias de usuario, el resto de historias 
 .. figure:: pictures/backlog/3/agregar.png
   :scale: 120%
 
-  Formulario para crear un nuevo torneo.
+  Figura 21: Formulario para crear un nuevo torneo.
 
 .. raw:: PDF
 
@@ -209,17 +209,17 @@ A continuación se detallan algunas historias de usuario, el resto de historias 
 .. figure:: pictures/backlog/4/lista.png
   :scale: 120%
 
-  Lista de torneos.
+  Figura 22: Lista de torneos.
 
 .. figure:: pictures/backlog/4/datos-ok.png
   :scale: 120%
 
-  Se agrego exitosamente un nuevo torneo.
+  Figura 23: Se agrego exitosamente un nuevo torneo.
 
 .. figure:: pictures/backlog/4/datos-error.png
   :scale: 120%
 
-  No se pudo agregar un nuevo torneo
+  Figura 24: No se pudo agregar un nuevo torneo
 
 .. raw:: PDF
 

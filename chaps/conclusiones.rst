@@ -75,6 +75,8 @@ cumplir con los objetivos del sprint.
   :scale: 200%
   :alt: Burndown chart
 
+  Figura 42: Burndown chart.
+
 b. Sprint report: Para el entendimiento del trabajo completado y no completado, como así también
 posibles cambios en los story points, y algo muy interesante: tareas que se completaron y no fueron
 planificadas al inicio del sprint.
@@ -82,6 +84,8 @@ planificadas al inicio del sprint.
 .. figure:: pictures/conclusiones/sprint-report.png
   :scale: 200%
   :alt: Sprint Report
+
+  Figura 43: Sprint Report.
 
 c. Velocity chart: Un gráfico para la visualización del trabajo completado entre sprints, lo que se 
 planeó vs lo que se completó, lo cual es muy valioso para poder planificar y estimar los siguientes
@@ -91,12 +95,16 @@ sprints.
   :scale: 200%
   :alt: Velocity Chart
 
+  Figura 44: Velocity chart.
+
 d. Control chart: Muestra el ciclo de vida para el producto, versión o sprint. Utilizado normalmente
 para incrementar la performance del equipo.
 
 .. figure:: pictures/conclusiones/control-chart.png
   :scale: 200%
   :alt: Control Chart
+
+  Figura 45: Control chart.
 
 Además Jira cuenta con ayuda y soporte para el uso adecuado de las herramientas mencionadas anteriormente. 
 
@@ -106,6 +114,8 @@ cuando el proyecto y/o equipo comiencen a escalar.
 .. figure:: pictures/conclusiones/precios.png
   :scale: 80%
   :alt: Precios en jira
+
+  Figura 46: Precios en Jira.
 
 El equipo comenzó a pensar en la contratación de QA, tanto para la realización de tests manuales,
 como para la mejora e implementación de tests automatizados. Esto, significará un costo significativo

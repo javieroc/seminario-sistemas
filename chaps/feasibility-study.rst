@@ -143,7 +143,7 @@ Tabla de Costos, Beneficios y Ganancias Aproximadas.
 .. figure:: pictures/chart.jpg
   :scale: 80%
 
-  Gráfico Costo-Beneficio.
+  Figura 5: Gráfico Costo-Beneficio.
 
 El análisis de recuperación nos muestra que recuperamos nuestra inversión en el mes 6.
 

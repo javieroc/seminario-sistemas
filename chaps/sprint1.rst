@@ -68,6 +68,8 @@ Por último el resultado para el primer sprint será el siguiente:
   :scale: 250%
   :alt: Sprint Planning
 
+  Figura 25: Sprint planning
+
 .. raw:: PDF
 
     PageBreak
@@ -274,9 +276,13 @@ Sprint Review
   :scale: 100%
   :alt: Burndown chart
 
+  Figura 26: Burndown chart
+
 .. figure:: pictures/sprint1/velocity.png
   :scale: 150%
   :alt: Velocity chart
+
+  Figura 27: Velocity chart
 
 Con la presencia de Matías se procedió con el siguiente calendario de actividades:
 
@@ -319,6 +325,8 @@ Repaso del backlog actual
 .. figure:: pictures/sprint1/backlog.png
   :scale: 200%
   :alt: Backlog actualizado
+
+  Figura 28: Backlog actualizado
 
 
 **Conclusiones al finalizar la reunión:**

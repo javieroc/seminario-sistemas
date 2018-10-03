@@ -39,6 +39,8 @@ Por último el resultado para el segundo sprint será el siguiente:
   :scale: 250%
   :alt: Sprint Planning
 
+  Figura 38: Sprint planning.
+
 **Daily meeting 1**
 
 .. class:: meeting
@@ -207,9 +209,13 @@ Sprint Review
   :scale: 100%
   :alt: Burndown chart
 
+  Figura 39: Burndown chart.
+
 .. figure:: pictures/sprint4/velocity.png
   :scale: 150%
   :alt: Velocity chart
+
+  Figura 40: Velocity chart.
 
 Con la presencia de Matías se procedió con el siguiente calendario de actividades:
 
@@ -259,6 +265,8 @@ Repaso del backlog actual
 .. figure:: pictures/sprint4/backlog.png
   :scale: 200%
   :alt: Backlog actualizado
+
+  Figura 41: Backlog actualizado.
 
 
 **Conclusiones al finalizar la reunión:**
