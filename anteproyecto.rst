@@ -22,7 +22,4 @@
 .. include:: chaps/feasibility-study.rst
 .. include:: chaps/roles.rst
 .. include:: chaps/activity-schedule.rst
-.. include:: chaps/sprint1.rst
-.. include:: chaps/sprint2.rst
-.. include:: chaps/sprint3.rst
 .. include:: chaps/bibliography.rst
