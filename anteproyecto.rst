@@ -1,4 +1,4 @@
-.. figure:: portada.png
+.. figure:: portada(anteproyecto).png
   :scale: 125%
 
 .. contents:: Tabla de contenidos
