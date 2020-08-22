@@ -7,7 +7,7 @@ Conclusiones
 
 Scrum es una metodología de desarrollo bastante flexible, nos ha permitido tener visibilidad 
 en las tareas entre todos  los  miembros del equipo. Además la flexbilidad ofrecida por el entorno
-de trabajo para ser resiliente a los cambios es bastante alta. Algunas de las ventajas que 
+de trabajo para ser resilientes a los cambios es bastante alta. Algunas de las ventajas que 
 hermos podido observar acerca de esta metodología son:
 
 1- Las entregas regulares permiten una gestión temprana sobre las expectativas del cliente. Esto se debe a que cada uno de los incrementos son tangibles tanto para el equipo como para el cliente.
@@ -51,7 +51,12 @@ aún  el mercado IT no cuenta con herramientas apropiadas para el manejo de piza
 pero con costo elevado).
 
 Creemos que Scrum es un perfecto entorno que promueve el trabajo y colaboración entre miembros/equipos 
-remotos para la ejecución desde medianos a grandes proyectos.
+remotos para la ejecución desde medianos a grandes proyectos. Sin embargo, cabe destacar que los procesos
+formales pueden desalentar los niveles de productividad dependiendo los equipos. Es importante que una persona, en este caso el Scrum Master,
+sin importar la metodología escogida, sepa detectar cuándo los procesos no estan siendo bien aplicados, o tal vez el equipo es rehacio a su adopción. 
+Por esto último es que la flexbilidad de un framework es crucial para el éxito de cada equipo, y por ello la comunicación efectiva constante en el día a día
+tiene que estar presente.
+
 
 .. raw:: PDF
 
